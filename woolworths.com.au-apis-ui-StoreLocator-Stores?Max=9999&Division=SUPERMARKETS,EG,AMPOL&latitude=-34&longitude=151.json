@@ -71,6 +71,81 @@
       "NearbyPartners": null
     },
     {
+      "Division": "EG",
+      "StoreNo": "91699",
+      "Name": "Menai",
+      "AddressLine1": "Cnr Allison Crescent & Old Menai Road",
+      "AddressLine2": null,
+      "Suburb": "Menai",
+      "State": "NSW",
+      "Postcode": "2234",
+      "Latitude": "-34.0152",
+      "Longitude": "151.0149",
+      "GeoLevel": "0",
+      "Distance": "2.18",
+      "Phone": "02 8870 7659",
+      "GMTZone": "11:0",
+      "IsOpen": true,
+      "PartnerUrl": null,
+      "TradingHours": [
+        {
+          "Day": "Today",
+          "OpenHour": "7:00 AM - 9:00 PM",
+          "TradingHourForDisplay": "Fri: 0700-2100"
+        },
+        {
+          "Day": "Tomorrow",
+          "OpenHour": "7:00 AM - 8:00 PM",
+          "TradingHourForDisplay": "Sat: 0700-2000"
+        },
+        {
+          "Day": "Sunday",
+          "OpenHour": "8:00 AM - 8:00 PM",
+          "TradingHourForDisplay": "Sun: 0800-2000"
+        },
+        {
+          "Day": "Monday",
+          "OpenHour": "7:00 AM - 9:00 PM",
+          "TradingHourForDisplay": "Mon: 0700-2100"
+        },
+        {
+          "Day": "Tuesday",
+          "OpenHour": "7:00 AM - 9:00 PM",
+          "TradingHourForDisplay": "Tue: 0700-2100"
+        },
+        {
+          "Day": "Wednesday",
+          "OpenHour": "7:00 AM - 9:00 PM",
+          "TradingHourForDisplay": "Wed: 0700-2100"
+        },
+        {
+          "Day": "Thursday",
+          "OpenHour": "7:00 AM - 9:00 PM",
+          "TradingHourForDisplay": "Thu: 0700-2100"
+        },
+        {
+          "Day": "Friday",
+          "OpenHour": "7:00 AM - 9:00 PM",
+          "TradingHourForDisplay": "Fri: 0700-2100"
+        }
+      ],
+      "Facilities": [
+        "Rewards-Everyday Rewards",
+        "Rewards-Redeem Fuel Discount"
+      ],
+      "CategorisedFacilities": [
+        {
+          "Category": "Rewards",
+          "CategoryLabel": "Rewards",
+          "Facilities": [
+            "Everyday Rewards",
+            "Redeem Fuel Discount"
+          ]
+        }
+      ],
+      "NearbyPartners": null
+    },
+    {
       "Division": "AMPOL",
       "StoreNo": "22774",
       "Name": "Ampol Foodary Menai",
@@ -176,81 +251,6 @@
             "ATM",
             "BBQ Gas Available",
             "Disabled Toilet"
-          ]
-        }
-      ],
-      "NearbyPartners": null
-    },
-    {
-      "Division": "EG",
-      "StoreNo": "91699",
-      "Name": "Menai",
-      "AddressLine1": "Cnr Allison Crescent & Old Menai Road",
-      "AddressLine2": null,
-      "Suburb": "Menai",
-      "State": "NSW",
-      "Postcode": "2234",
-      "Latitude": "-34.0152",
-      "Longitude": "151.0149",
-      "GeoLevel": "0",
-      "Distance": "2.18",
-      "Phone": "02 8870 7659",
-      "GMTZone": "11:0",
-      "IsOpen": true,
-      "PartnerUrl": null,
-      "TradingHours": [
-        {
-          "Day": "Today",
-          "OpenHour": "7:00 AM - 9:00 PM",
-          "TradingHourForDisplay": "Fri: 0700-2100"
-        },
-        {
-          "Day": "Tomorrow",
-          "OpenHour": "7:00 AM - 8:00 PM",
-          "TradingHourForDisplay": "Sat: 0700-2000"
-        },
-        {
-          "Day": "Sunday",
-          "OpenHour": "8:00 AM - 8:00 PM",
-          "TradingHourForDisplay": "Sun: 0800-2000"
-        },
-        {
-          "Day": "Monday",
-          "OpenHour": "7:00 AM - 9:00 PM",
-          "TradingHourForDisplay": "Mon: 0700-2100"
-        },
-        {
-          "Day": "Tuesday",
-          "OpenHour": "7:00 AM - 9:00 PM",
-          "TradingHourForDisplay": "Tue: 0700-2100"
-        },
-        {
-          "Day": "Wednesday",
-          "OpenHour": "7:00 AM - 9:00 PM",
-          "TradingHourForDisplay": "Wed: 0700-2100"
-        },
-        {
-          "Day": "Thursday",
-          "OpenHour": "7:00 AM - 9:00 PM",
-          "TradingHourForDisplay": "Thu: 0700-2100"
-        },
-        {
-          "Day": "Friday",
-          "OpenHour": "7:00 AM - 9:00 PM",
-          "TradingHourForDisplay": "Fri: 0700-2100"
-        }
-      ],
-      "Facilities": [
-        "Rewards-Everyday Rewards",
-        "Rewards-Redeem Fuel Discount"
-      ],
-      "CategorisedFacilities": [
-        {
-          "Category": "Rewards",
-          "CategoryLabel": "Rewards",
-          "Facilities": [
-            "Everyday Rewards",
-            "Redeem Fuel Discount"
           ]
         }
       ],
@@ -3985,6 +3985,81 @@
       "NearbyPartners": null
     },
     {
+      "Division": "EG",
+      "StoreNo": "91996",
+      "Name": "Greenacre",
+      "AddressLine1": "51 Roberts Road (Cnr Amarina St)",
+      "AddressLine2": null,
+      "Suburb": "Greenacre",
+      "State": "NSW",
+      "Postcode": "2190",
+      "Latitude": "-33.9003",
+      "Longitude": "151.0655",
+      "GeoLevel": "0",
+      "Distance": "12.63",
+      "Phone": "02 8870 7638",
+      "GMTZone": "11:0",
+      "IsOpen": true,
+      "PartnerUrl": null,
+      "TradingHours": [
+        {
+          "Day": "Today",
+          "OpenHour": "24 Hours",
+          "TradingHourForDisplay": "Fri: 24 Hours"
+        },
+        {
+          "Day": "Tomorrow",
+          "OpenHour": "24 Hours",
+          "TradingHourForDisplay": "Sat: 24 Hours"
+        },
+        {
+          "Day": "Sunday",
+          "OpenHour": "24 Hours",
+          "TradingHourForDisplay": "Sun: 24 Hours"
+        },
+        {
+          "Day": "Monday",
+          "OpenHour": "24 Hours",
+          "TradingHourForDisplay": "Mon: 24 Hours"
+        },
+        {
+          "Day": "Tuesday",
+          "OpenHour": "24 Hours",
+          "TradingHourForDisplay": "Tue: 24 Hours"
+        },
+        {
+          "Day": "Wednesday",
+          "OpenHour": "24 Hours",
+          "TradingHourForDisplay": "Wed: 24 Hours"
+        },
+        {
+          "Day": "Thursday",
+          "OpenHour": "24 Hours",
+          "TradingHourForDisplay": "Thu: 24 Hours"
+        },
+        {
+          "Day": "Friday",
+          "OpenHour": "24 Hours",
+          "TradingHourForDisplay": "Fri: 24 Hours"
+        }
+      ],
+      "Facilities": [
+        "Rewards-Everyday Rewards",
+        "Rewards-Redeem Fuel Discount"
+      ],
+      "CategorisedFacilities": [
+        {
+          "Category": "Rewards",
+          "CategoryLabel": "Rewards",
+          "Facilities": [
+            "Everyday Rewards",
+            "Redeem Fuel Discount"
+          ]
+        }
+      ],
+      "NearbyPartners": null
+    },
+    {
       "Division": "AMPOL",
       "StoreNo": "22453",
       "Name": "Ampol Foodary Lilli Pilli",
@@ -4080,81 +4155,6 @@
           "Facilities": [
             "AmpolCard accepted",
             "FuelPay"
-          ]
-        }
-      ],
-      "NearbyPartners": null
-    },
-    {
-      "Division": "EG",
-      "StoreNo": "91996",
-      "Name": "Greenacre",
-      "AddressLine1": "51 Roberts Road (Cnr Amarina St)",
-      "AddressLine2": null,
-      "Suburb": "Greenacre",
-      "State": "NSW",
-      "Postcode": "2190",
-      "Latitude": "-33.9003",
-      "Longitude": "151.0655",
-      "GeoLevel": "0",
-      "Distance": "12.63",
-      "Phone": "02 8870 7638",
-      "GMTZone": "11:0",
-      "IsOpen": true,
-      "PartnerUrl": null,
-      "TradingHours": [
-        {
-          "Day": "Today",
-          "OpenHour": "24 Hours",
-          "TradingHourForDisplay": "Fri: 24 Hours"
-        },
-        {
-          "Day": "Tomorrow",
-          "OpenHour": "24 Hours",
-          "TradingHourForDisplay": "Sat: 24 Hours"
-        },
-        {
-          "Day": "Sunday",
-          "OpenHour": "24 Hours",
-          "TradingHourForDisplay": "Sun: 24 Hours"
-        },
-        {
-          "Day": "Monday",
-          "OpenHour": "24 Hours",
-          "TradingHourForDisplay": "Mon: 24 Hours"
-        },
-        {
-          "Day": "Tuesday",
-          "OpenHour": "24 Hours",
-          "TradingHourForDisplay": "Tue: 24 Hours"
-        },
-        {
-          "Day": "Wednesday",
-          "OpenHour": "24 Hours",
-          "TradingHourForDisplay": "Wed: 24 Hours"
-        },
-        {
-          "Day": "Thursday",
-          "OpenHour": "24 Hours",
-          "TradingHourForDisplay": "Thu: 24 Hours"
-        },
-        {
-          "Day": "Friday",
-          "OpenHour": "24 Hours",
-          "TradingHourForDisplay": "Fri: 24 Hours"
-        }
-      ],
-      "Facilities": [
-        "Rewards-Everyday Rewards",
-        "Rewards-Redeem Fuel Discount"
-      ],
-      "CategorisedFacilities": [
-        {
-          "Category": "Rewards",
-          "CategoryLabel": "Rewards",
-          "Facilities": [
-            "Everyday Rewards",
-            "Redeem Fuel Discount"
           ]
         }
       ],
@@ -4513,6 +4513,73 @@
       "NearbyPartners": null
     },
     {
+      "Division": "SUPERMARKETS",
+      "StoreNo": "1109",
+      "Name": "Cabramatta",
+      "AddressLine1": "180 Railway Parade",
+      "AddressLine2": null,
+      "Suburb": "Cabramatta",
+      "State": "NSW",
+      "Postcode": "2166",
+      "Latitude": "-33.893364",
+      "Longitude": "150.938678",
+      "GeoLevel": "0",
+      "Distance": "13.14",
+      "Phone": "(02) 8709 4306",
+      "GMTZone": "11:0",
+      "IsOpen": true,
+      "PartnerUrl": null,
+      "TradingHours": [
+        {
+          "Day": "Today",
+          "OpenHour": "7:00 AM - 10:00 PM",
+          "TradingHourForDisplay": "Fri: 0700-2200"
+        },
+        {
+          "Day": "Tomorrow",
+          "OpenHour": "7:00 AM - 10:00 PM",
+          "TradingHourForDisplay": "Sat: 0700-2200"
+        },
+        {
+          "Day": "Sunday",
+          "OpenHour": "7:00 AM - 10:00 PM",
+          "TradingHourForDisplay": "Sun: 0700-2200"
+        },
+        {
+          "Day": "Monday",
+          "OpenHour": "7:00 AM - 10:00 PM",
+          "TradingHourForDisplay": "Mon: 0700-2200"
+        },
+        {
+          "Day": "Tuesday",
+          "OpenHour": "7:00 AM - 10:00 PM",
+          "TradingHourForDisplay": "Tue: 0700-2200"
+        },
+        {
+          "Day": "Wednesday",
+          "OpenHour": "7:00 AM - 10:00 PM",
+          "TradingHourForDisplay": "Wed: 0700-2200"
+        },
+        {
+          "Day": "Thursday",
+          "OpenHour": "7:00 AM - 10:00 PM",
+          "TradingHourForDisplay": "Thu: 0700-2200"
+        },
+        {
+          "Day": "Friday",
+          "OpenHour": "7:00 AM - 10:00 PM",
+          "TradingHourForDisplay": "Fri: 0700-2200"
+        }
+      ],
+      "Facilities": [
+        "Liquor (Adjacent BWS)",
+        "Quiet Hour",
+        "Seafood"
+      ],
+      "CategorisedFacilities": [],
+      "NearbyPartners": null
+    },
+    {
       "Division": "EG",
       "StoreNo": "91540",
       "Name": "Chullora",
@@ -4585,73 +4652,6 @@
           ]
         }
       ],
-      "NearbyPartners": null
-    },
-    {
-      "Division": "SUPERMARKETS",
-      "StoreNo": "1109",
-      "Name": "Cabramatta",
-      "AddressLine1": "180 Railway Parade",
-      "AddressLine2": null,
-      "Suburb": "Cabramatta",
-      "State": "NSW",
-      "Postcode": "2166",
-      "Latitude": "-33.893364",
-      "Longitude": "150.938678",
-      "GeoLevel": "0",
-      "Distance": "13.14",
-      "Phone": "(02) 8709 4306",
-      "GMTZone": "11:0",
-      "IsOpen": true,
-      "PartnerUrl": null,
-      "TradingHours": [
-        {
-          "Day": "Today",
-          "OpenHour": "7:00 AM - 10:00 PM",
-          "TradingHourForDisplay": "Fri: 0700-2200"
-        },
-        {
-          "Day": "Tomorrow",
-          "OpenHour": "7:00 AM - 10:00 PM",
-          "TradingHourForDisplay": "Sat: 0700-2200"
-        },
-        {
-          "Day": "Sunday",
-          "OpenHour": "7:00 AM - 10:00 PM",
-          "TradingHourForDisplay": "Sun: 0700-2200"
-        },
-        {
-          "Day": "Monday",
-          "OpenHour": "7:00 AM - 10:00 PM",
-          "TradingHourForDisplay": "Mon: 0700-2200"
-        },
-        {
-          "Day": "Tuesday",
-          "OpenHour": "7:00 AM - 10:00 PM",
-          "TradingHourForDisplay": "Tue: 0700-2200"
-        },
-        {
-          "Day": "Wednesday",
-          "OpenHour": "7:00 AM - 10:00 PM",
-          "TradingHourForDisplay": "Wed: 0700-2200"
-        },
-        {
-          "Day": "Thursday",
-          "OpenHour": "7:00 AM - 10:00 PM",
-          "TradingHourForDisplay": "Thu: 0700-2200"
-        },
-        {
-          "Day": "Friday",
-          "OpenHour": "7:00 AM - 10:00 PM",
-          "TradingHourForDisplay": "Fri: 0700-2200"
-        }
-      ],
-      "Facilities": [
-        "Liquor (Adjacent BWS)",
-        "Quiet Hour",
-        "Seafood"
-      ],
-      "CategorisedFacilities": [],
       "NearbyPartners": null
     },
     {
@@ -9901,6 +9901,73 @@
       "NearbyPartners": null
     },
     {
+      "Division": "SUPERMARKETS",
+      "StoreNo": "1306",
+      "Name": "Cecil Hills",
+      "AddressLine1": "Cnr Sandringham Drive And Fedore Road",
+      "AddressLine2": null,
+      "Suburb": "Cecil Hills",
+      "State": "NSW",
+      "Postcode": "2171",
+      "Latitude": "-33.88684546",
+      "Longitude": "150.8487645",
+      "GeoLevel": "0",
+      "Distance": "18.79",
+      "Phone": "(02) 8785 3630",
+      "GMTZone": "11:0",
+      "IsOpen": true,
+      "PartnerUrl": null,
+      "TradingHours": [
+        {
+          "Day": "Today",
+          "OpenHour": "7:00 AM - 10:00 PM",
+          "TradingHourForDisplay": "Fri: 0700-2200"
+        },
+        {
+          "Day": "Tomorrow",
+          "OpenHour": "7:00 AM - 10:00 PM",
+          "TradingHourForDisplay": "Sat: 0700-2200"
+        },
+        {
+          "Day": "Sunday",
+          "OpenHour": "7:00 AM - 10:00 PM",
+          "TradingHourForDisplay": "Sun: 0700-2200"
+        },
+        {
+          "Day": "Monday",
+          "OpenHour": "7:00 AM - 10:00 PM",
+          "TradingHourForDisplay": "Mon: 0700-2200"
+        },
+        {
+          "Day": "Tuesday",
+          "OpenHour": "7:00 AM - 10:00 PM",
+          "TradingHourForDisplay": "Tue: 0700-2200"
+        },
+        {
+          "Day": "Wednesday",
+          "OpenHour": "7:00 AM - 10:00 PM",
+          "TradingHourForDisplay": "Wed: 0700-2200"
+        },
+        {
+          "Day": "Thursday",
+          "OpenHour": "7:00 AM - 10:00 PM",
+          "TradingHourForDisplay": "Thu: 0700-2200"
+        },
+        {
+          "Day": "Friday",
+          "OpenHour": "7:00 AM - 10:00 PM",
+          "TradingHourForDisplay": "Fri: 0700-2200"
+        }
+      ],
+      "Facilities": [
+        "Liquor (Adjacent BWS)",
+        "Pick up",
+        "Quiet Hour"
+      ],
+      "CategorisedFacilities": [],
+      "NearbyPartners": null
+    },
+    {
       "Division": "AMPOL",
       "StoreNo": "22529",
       "Name": "Ampol Foodary Five Dock",
@@ -10013,73 +10080,6 @@
           ]
         }
       ],
-      "NearbyPartners": null
-    },
-    {
-      "Division": "SUPERMARKETS",
-      "StoreNo": "1306",
-      "Name": "Cecil Hills",
-      "AddressLine1": "Cnr Sandringham Drive And Fedore Road",
-      "AddressLine2": null,
-      "Suburb": "Cecil Hills",
-      "State": "NSW",
-      "Postcode": "2171",
-      "Latitude": "-33.88684546",
-      "Longitude": "150.8487645",
-      "GeoLevel": "0",
-      "Distance": "18.79",
-      "Phone": "(02) 8785 3630",
-      "GMTZone": "11:0",
-      "IsOpen": true,
-      "PartnerUrl": null,
-      "TradingHours": [
-        {
-          "Day": "Today",
-          "OpenHour": "7:00 AM - 10:00 PM",
-          "TradingHourForDisplay": "Fri: 0700-2200"
-        },
-        {
-          "Day": "Tomorrow",
-          "OpenHour": "7:00 AM - 10:00 PM",
-          "TradingHourForDisplay": "Sat: 0700-2200"
-        },
-        {
-          "Day": "Sunday",
-          "OpenHour": "7:00 AM - 10:00 PM",
-          "TradingHourForDisplay": "Sun: 0700-2200"
-        },
-        {
-          "Day": "Monday",
-          "OpenHour": "7:00 AM - 10:00 PM",
-          "TradingHourForDisplay": "Mon: 0700-2200"
-        },
-        {
-          "Day": "Tuesday",
-          "OpenHour": "7:00 AM - 10:00 PM",
-          "TradingHourForDisplay": "Tue: 0700-2200"
-        },
-        {
-          "Day": "Wednesday",
-          "OpenHour": "7:00 AM - 10:00 PM",
-          "TradingHourForDisplay": "Wed: 0700-2200"
-        },
-        {
-          "Day": "Thursday",
-          "OpenHour": "7:00 AM - 10:00 PM",
-          "TradingHourForDisplay": "Thu: 0700-2200"
-        },
-        {
-          "Day": "Friday",
-          "OpenHour": "7:00 AM - 10:00 PM",
-          "TradingHourForDisplay": "Fri: 0700-2200"
-        }
-      ],
-      "Facilities": [
-        "Liquor (Adjacent BWS)",
-        "Pick up",
-        "Quiet Hour"
-      ],
-      "CategorisedFacilities": [],
       "NearbyPartners": null
     },
     {
@@ -13283,6 +13283,72 @@
       "NearbyPartners": null
     },
     {
+      "Division": "SUPERMARKETS",
+      "StoreNo": "1770",
+      "Name": "Matraville",
+      "AddressLine1": "Bunnerong Road and Daunt Ave",
+      "AddressLine2": null,
+      "Suburb": "Matraville",
+      "State": "NSW",
+      "Postcode": "2036",
+      "Latitude": "-33.9575614",
+      "Longitude": "151.2307964",
+      "GeoLevel": "0",
+      "Distance": "21.8",
+      "Phone": "(02) 8565 9294",
+      "GMTZone": "11:0",
+      "IsOpen": true,
+      "PartnerUrl": null,
+      "TradingHours": [
+        {
+          "Day": "Today",
+          "OpenHour": "7:00 AM - 10:00 PM",
+          "TradingHourForDisplay": "Fri: 0700-2200"
+        },
+        {
+          "Day": "Tomorrow",
+          "OpenHour": "7:00 AM - 10:00 PM",
+          "TradingHourForDisplay": "Sat: 0700-2200"
+        },
+        {
+          "Day": "Sunday",
+          "OpenHour": "7:00 AM - 10:00 PM",
+          "TradingHourForDisplay": "Sun: 0700-2200"
+        },
+        {
+          "Day": "Monday",
+          "OpenHour": "7:00 AM - 10:00 PM",
+          "TradingHourForDisplay": "Mon: 0700-2200"
+        },
+        {
+          "Day": "Tuesday",
+          "OpenHour": "7:00 AM - 10:00 PM",
+          "TradingHourForDisplay": "Tue: 0700-2200"
+        },
+        {
+          "Day": "Wednesday",
+          "OpenHour": "7:00 AM - 10:00 PM",
+          "TradingHourForDisplay": "Wed: 0700-2200"
+        },
+        {
+          "Day": "Thursday",
+          "OpenHour": "7:00 AM - 10:00 PM",
+          "TradingHourForDisplay": "Thu: 0700-2200"
+        },
+        {
+          "Day": "Friday",
+          "OpenHour": "7:00 AM - 10:00 PM",
+          "TradingHourForDisplay": "Fri: 0700-2200"
+        }
+      ],
+      "Facilities": [
+        "Pick up",
+        "Quiet Hour"
+      ],
+      "CategorisedFacilities": [],
+      "NearbyPartners": null
+    },
+    {
       "Division": "AMPOL",
       "StoreNo": "22440",
       "Name": "U-Go Rozelle",
@@ -13369,72 +13435,6 @@
           ]
         }
       ],
-      "NearbyPartners": null
-    },
-    {
-      "Division": "SUPERMARKETS",
-      "StoreNo": "1770",
-      "Name": "Matraville",
-      "AddressLine1": "Bunnerong Road and Daunt Ave",
-      "AddressLine2": null,
-      "Suburb": "Matraville",
-      "State": "NSW",
-      "Postcode": "2036",
-      "Latitude": "-33.9575614",
-      "Longitude": "151.2307964",
-      "GeoLevel": "0",
-      "Distance": "21.8",
-      "Phone": "(02) 8565 9294",
-      "GMTZone": "11:0",
-      "IsOpen": true,
-      "PartnerUrl": null,
-      "TradingHours": [
-        {
-          "Day": "Today",
-          "OpenHour": "7:00 AM - 10:00 PM",
-          "TradingHourForDisplay": "Fri: 0700-2200"
-        },
-        {
-          "Day": "Tomorrow",
-          "OpenHour": "7:00 AM - 10:00 PM",
-          "TradingHourForDisplay": "Sat: 0700-2200"
-        },
-        {
-          "Day": "Sunday",
-          "OpenHour": "7:00 AM - 10:00 PM",
-          "TradingHourForDisplay": "Sun: 0700-2200"
-        },
-        {
-          "Day": "Monday",
-          "OpenHour": "7:00 AM - 10:00 PM",
-          "TradingHourForDisplay": "Mon: 0700-2200"
-        },
-        {
-          "Day": "Tuesday",
-          "OpenHour": "7:00 AM - 10:00 PM",
-          "TradingHourForDisplay": "Tue: 0700-2200"
-        },
-        {
-          "Day": "Wednesday",
-          "OpenHour": "7:00 AM - 10:00 PM",
-          "TradingHourForDisplay": "Wed: 0700-2200"
-        },
-        {
-          "Day": "Thursday",
-          "OpenHour": "7:00 AM - 10:00 PM",
-          "TradingHourForDisplay": "Thu: 0700-2200"
-        },
-        {
-          "Day": "Friday",
-          "OpenHour": "7:00 AM - 10:00 PM",
-          "TradingHourForDisplay": "Fri: 0700-2200"
-        }
-      ],
-      "Facilities": [
-        "Pick up",
-        "Quiet Hour"
-      ],
-      "CategorisedFacilities": [],
       "NearbyPartners": null
     },
     {
@@ -21319,7 +21319,7 @@
       "Distance": "29.68",
       "Phone": "(02) 9677 6465",
       "GMTZone": "11:0",
-      "IsOpen": true,
+      "IsOpen": false,
       "PartnerUrl": null,
       "TradingHours": [
         {
@@ -21368,75 +21368,6 @@
         "Instore Bakery",
         "Liquor (Adjacent BWS)",
         "Metro"
-      ],
-      "CategorisedFacilities": [],
-      "NearbyPartners": null
-    },
-    {
-      "Division": "SUPERMARKETS",
-      "StoreNo": "1140",
-      "Name": "St Clair",
-      "AddressLine1": "155 Bennett Road",
-      "AddressLine2": null,
-      "Suburb": "St Clair",
-      "State": "NSW",
-      "Postcode": "2759",
-      "Latitude": "-33.7952331",
-      "Longitude": "150.7884452",
-      "GeoLevel": "0",
-      "Distance": "29.99",
-      "Phone": "(02) 9677 6423",
-      "GMTZone": "11:0",
-      "IsOpen": true,
-      "PartnerUrl": null,
-      "TradingHours": [
-        {
-          "Day": "Today",
-          "OpenHour": "7:00 AM - 11:00 PM",
-          "TradingHourForDisplay": "Fri: 0700-2300"
-        },
-        {
-          "Day": "Tomorrow",
-          "OpenHour": "7:00 AM - 11:00 PM",
-          "TradingHourForDisplay": "Sat: 0700-2300"
-        },
-        {
-          "Day": "Sunday",
-          "OpenHour": "7:00 AM - 11:00 PM",
-          "TradingHourForDisplay": "Sun: 0700-2300"
-        },
-        {
-          "Day": "Monday",
-          "OpenHour": "7:00 AM - 11:00 PM",
-          "TradingHourForDisplay": "Mon: 0700-2300"
-        },
-        {
-          "Day": "Tuesday",
-          "OpenHour": "7:00 AM - 11:00 PM",
-          "TradingHourForDisplay": "Tue: 0700-2300"
-        },
-        {
-          "Day": "Wednesday",
-          "OpenHour": "7:00 AM - 11:00 PM",
-          "TradingHourForDisplay": "Wed: 0700-2300"
-        },
-        {
-          "Day": "Thursday",
-          "OpenHour": "7:00 AM - 11:00 PM",
-          "TradingHourForDisplay": "Thu: 0700-2300"
-        },
-        {
-          "Day": "Friday",
-          "OpenHour": "7:00 AM - 11:00 PM",
-          "TradingHourForDisplay": "Fri: 0700-2300"
-        }
-      ],
-      "Facilities": [
-        "Direct to boot - drive through",
-        "Liquor (Adjacent BWS)",
-        "Pick up",
-        "Quiet Hour",
-        "Seafood"
       ],
       "CategorisedFacilities": [],
       "NearbyPartners": null
@@ -21505,6 +21436,75 @@
         "Direct to boot - drive through",
         "Pick up",
         "Scan&Go",
+        "Seafood"
+      ],
+      "CategorisedFacilities": [],
+      "NearbyPartners": null
+    },
+    {
+      "Division": "SUPERMARKETS",
+      "StoreNo": "1140",
+      "Name": "St Clair",
+      "AddressLine1": "155 Bennett Road",
+      "AddressLine2": null,
+      "Suburb": "St Clair",
+      "State": "NSW",
+      "Postcode": "2759",
+      "Latitude": "-33.7952331",
+      "Longitude": "150.7884452",
+      "GeoLevel": "0",
+      "Distance": "29.99",
+      "Phone": "(02) 9677 6423",
+      "GMTZone": "11:0",
+      "IsOpen": true,
+      "PartnerUrl": null,
+      "TradingHours": [
+        {
+          "Day": "Today",
+          "OpenHour": "7:00 AM - 11:00 PM",
+          "TradingHourForDisplay": "Fri: 0700-2300"
+        },
+        {
+          "Day": "Tomorrow",
+          "OpenHour": "7:00 AM - 11:00 PM",
+          "TradingHourForDisplay": "Sat: 0700-2300"
+        },
+        {
+          "Day": "Sunday",
+          "OpenHour": "7:00 AM - 11:00 PM",
+          "TradingHourForDisplay": "Sun: 0700-2300"
+        },
+        {
+          "Day": "Monday",
+          "OpenHour": "7:00 AM - 11:00 PM",
+          "TradingHourForDisplay": "Mon: 0700-2300"
+        },
+        {
+          "Day": "Tuesday",
+          "OpenHour": "7:00 AM - 11:00 PM",
+          "TradingHourForDisplay": "Tue: 0700-2300"
+        },
+        {
+          "Day": "Wednesday",
+          "OpenHour": "7:00 AM - 11:00 PM",
+          "TradingHourForDisplay": "Wed: 0700-2300"
+        },
+        {
+          "Day": "Thursday",
+          "OpenHour": "7:00 AM - 11:00 PM",
+          "TradingHourForDisplay": "Thu: 0700-2300"
+        },
+        {
+          "Day": "Friday",
+          "OpenHour": "7:00 AM - 11:00 PM",
+          "TradingHourForDisplay": "Fri: 0700-2300"
+        }
+      ],
+      "Facilities": [
+        "Direct to boot - drive through",
+        "Liquor (Adjacent BWS)",
+        "Pick up",
+        "Quiet Hour",
         "Seafood"
       ],
       "CategorisedFacilities": [],
@@ -23861,76 +23861,6 @@
     },
     {
       "Division": "SUPERMARKETS",
-      "StoreNo": "1297",
-      "Name": "Dural",
-      "AddressLine1": "2 Allen Way",
-      "AddressLine2": null,
-      "Suburb": "Round Corner",
-      "State": "NSW",
-      "Postcode": "2158",
-      "Latitude": "-33.6936362",
-      "Longitude": "151.0181814",
-      "GeoLevel": "0",
-      "Distance": "34.11",
-      "Phone": "(02) 9652 4028",
-      "GMTZone": "11:0",
-      "IsOpen": true,
-      "PartnerUrl": null,
-      "TradingHours": [
-        {
-          "Day": "Today",
-          "OpenHour": "7:00 AM - 10:00 PM",
-          "TradingHourForDisplay": "Fri: 0700-2200"
-        },
-        {
-          "Day": "Tomorrow",
-          "OpenHour": "7:00 AM - 10:00 PM",
-          "TradingHourForDisplay": "Sat: 0700-2200"
-        },
-        {
-          "Day": "Sunday",
-          "OpenHour": "7:00 AM - 10:00 PM",
-          "TradingHourForDisplay": "Sun: 0700-2200"
-        },
-        {
-          "Day": "Monday",
-          "OpenHour": "7:00 AM - 10:00 PM",
-          "TradingHourForDisplay": "Mon: 0700-2200"
-        },
-        {
-          "Day": "Tuesday",
-          "OpenHour": "7:00 AM - 10:00 PM",
-          "TradingHourForDisplay": "Tue: 0700-2200"
-        },
-        {
-          "Day": "Wednesday",
-          "OpenHour": "7:00 AM - 10:00 PM",
-          "TradingHourForDisplay": "Wed: 0700-2200"
-        },
-        {
-          "Day": "Thursday",
-          "OpenHour": "7:00 AM - 10:00 PM",
-          "TradingHourForDisplay": "Thu: 0700-2200"
-        },
-        {
-          "Day": "Friday",
-          "OpenHour": "7:00 AM - 10:00 PM",
-          "TradingHourForDisplay": "Fri: 0700-2200"
-        }
-      ],
-      "Facilities": [
-        "Direct to boot - drive through",
-        "Liquor (Adjacent BWS)",
-        "Pick up",
-        "Quiet Hour",
-        "Seafood",
-        "Sushi Bar"
-      ],
-      "CategorisedFacilities": [],
-      "NearbyPartners": null
-    },
-    {
-      "Division": "SUPERMARKETS",
       "StoreNo": "1573",
       "Name": "Balgowlah",
       "AddressLine1": "17-31 Roseberry Street",
@@ -23997,6 +23927,76 @@
         "Seafood",
         "Sushi Bar",
         "WiFi"
+      ],
+      "CategorisedFacilities": [],
+      "NearbyPartners": null
+    },
+    {
+      "Division": "SUPERMARKETS",
+      "StoreNo": "1297",
+      "Name": "Dural",
+      "AddressLine1": "2 Allen Way",
+      "AddressLine2": null,
+      "Suburb": "Round Corner",
+      "State": "NSW",
+      "Postcode": "2158",
+      "Latitude": "-33.6936362",
+      "Longitude": "151.0181814",
+      "GeoLevel": "0",
+      "Distance": "34.11",
+      "Phone": "(02) 9652 4028",
+      "GMTZone": "11:0",
+      "IsOpen": true,
+      "PartnerUrl": null,
+      "TradingHours": [
+        {
+          "Day": "Today",
+          "OpenHour": "7:00 AM - 10:00 PM",
+          "TradingHourForDisplay": "Fri: 0700-2200"
+        },
+        {
+          "Day": "Tomorrow",
+          "OpenHour": "7:00 AM - 10:00 PM",
+          "TradingHourForDisplay": "Sat: 0700-2200"
+        },
+        {
+          "Day": "Sunday",
+          "OpenHour": "7:00 AM - 10:00 PM",
+          "TradingHourForDisplay": "Sun: 0700-2200"
+        },
+        {
+          "Day": "Monday",
+          "OpenHour": "7:00 AM - 10:00 PM",
+          "TradingHourForDisplay": "Mon: 0700-2200"
+        },
+        {
+          "Day": "Tuesday",
+          "OpenHour": "7:00 AM - 10:00 PM",
+          "TradingHourForDisplay": "Tue: 0700-2200"
+        },
+        {
+          "Day": "Wednesday",
+          "OpenHour": "7:00 AM - 10:00 PM",
+          "TradingHourForDisplay": "Wed: 0700-2200"
+        },
+        {
+          "Day": "Thursday",
+          "OpenHour": "7:00 AM - 10:00 PM",
+          "TradingHourForDisplay": "Thu: 0700-2200"
+        },
+        {
+          "Day": "Friday",
+          "OpenHour": "7:00 AM - 10:00 PM",
+          "TradingHourForDisplay": "Fri: 0700-2200"
+        }
+      ],
+      "Facilities": [
+        "Direct to boot - drive through",
+        "Liquor (Adjacent BWS)",
+        "Pick up",
+        "Quiet Hour",
+        "Seafood",
+        "Sushi Bar"
       ],
       "CategorisedFacilities": [],
       "NearbyPartners": null
@@ -26531,6 +26531,72 @@
       "NearbyPartners": null
     },
     {
+      "Division": "SUPERMARKETS",
+      "StoreNo": "8524",
+      "Name": "Wilton Plaza (Metro)",
+      "AddressLine1": "1 Greenbridge Drive",
+      "AddressLine2": null,
+      "Suburb": "Wilton",
+      "State": "NSW",
+      "Postcode": "2571",
+      "Latitude": "-34.22845",
+      "Longitude": "150.68383",
+      "GeoLevel": "0",
+      "Distance": "38.63",
+      "Phone": "(02) 4646 9339",
+      "GMTZone": "11:0",
+      "IsOpen": true,
+      "PartnerUrl": null,
+      "TradingHours": [
+        {
+          "Day": "Today",
+          "OpenHour": "7:00 AM - 10:00 PM",
+          "TradingHourForDisplay": "Fri: 0700-2200"
+        },
+        {
+          "Day": "Tomorrow",
+          "OpenHour": "7:00 AM - 10:00 PM",
+          "TradingHourForDisplay": "Sat: 0700-2200"
+        },
+        {
+          "Day": "Sunday",
+          "OpenHour": "7:00 AM - 10:00 PM",
+          "TradingHourForDisplay": "Sun: 0700-2200"
+        },
+        {
+          "Day": "Monday",
+          "OpenHour": "7:00 AM - 10:00 PM",
+          "TradingHourForDisplay": "Mon: 0700-2200"
+        },
+        {
+          "Day": "Tuesday",
+          "OpenHour": "7:00 AM - 10:00 PM",
+          "TradingHourForDisplay": "Tue: 0700-2200"
+        },
+        {
+          "Day": "Wednesday",
+          "OpenHour": "7:00 AM - 10:00 PM",
+          "TradingHourForDisplay": "Wed: 0700-2200"
+        },
+        {
+          "Day": "Thursday",
+          "OpenHour": "7:00 AM - 10:00 PM",
+          "TradingHourForDisplay": "Thu: 0700-2200"
+        },
+        {
+          "Day": "Friday",
+          "OpenHour": "7:00 AM - 10:00 PM",
+          "TradingHourForDisplay": "Fri: 0700-2200"
+        }
+      ],
+      "Facilities": [
+        "Metro",
+        "WiFi"
+      ],
+      "CategorisedFacilities": [],
+      "NearbyPartners": null
+    },
+    {
       "Division": "EG",
       "StoreNo": "91698",
       "Name": "Glenmore Park",
@@ -26603,72 +26669,6 @@
           ]
         }
       ],
-      "NearbyPartners": null
-    },
-    {
-      "Division": "SUPERMARKETS",
-      "StoreNo": "8524",
-      "Name": "Wilton Plaza (Metro)",
-      "AddressLine1": "1 Greenbridge Drive",
-      "AddressLine2": null,
-      "Suburb": "Wilton",
-      "State": "NSW",
-      "Postcode": "2571",
-      "Latitude": "-34.22845",
-      "Longitude": "150.68383",
-      "GeoLevel": "0",
-      "Distance": "38.63",
-      "Phone": "(02) 4646 9339",
-      "GMTZone": "11:0",
-      "IsOpen": true,
-      "PartnerUrl": null,
-      "TradingHours": [
-        {
-          "Day": "Today",
-          "OpenHour": "7:00 AM - 10:00 PM",
-          "TradingHourForDisplay": "Fri: 0700-2200"
-        },
-        {
-          "Day": "Tomorrow",
-          "OpenHour": "7:00 AM - 10:00 PM",
-          "TradingHourForDisplay": "Sat: 0700-2200"
-        },
-        {
-          "Day": "Sunday",
-          "OpenHour": "7:00 AM - 10:00 PM",
-          "TradingHourForDisplay": "Sun: 0700-2200"
-        },
-        {
-          "Day": "Monday",
-          "OpenHour": "7:00 AM - 10:00 PM",
-          "TradingHourForDisplay": "Mon: 0700-2200"
-        },
-        {
-          "Day": "Tuesday",
-          "OpenHour": "7:00 AM - 10:00 PM",
-          "TradingHourForDisplay": "Tue: 0700-2200"
-        },
-        {
-          "Day": "Wednesday",
-          "OpenHour": "7:00 AM - 10:00 PM",
-          "TradingHourForDisplay": "Wed: 0700-2200"
-        },
-        {
-          "Day": "Thursday",
-          "OpenHour": "7:00 AM - 10:00 PM",
-          "TradingHourForDisplay": "Thu: 0700-2200"
-        },
-        {
-          "Day": "Friday",
-          "OpenHour": "7:00 AM - 10:00 PM",
-          "TradingHourForDisplay": "Fri: 0700-2200"
-        }
-      ],
-      "Facilities": [
-        "Metro",
-        "WiFi"
-      ],
-      "CategorisedFacilities": [],
       "NearbyPartners": null
     },
     {
@@ -43006,76 +43006,6 @@
       "NearbyPartners": null
     },
     {
-      "Division": "SUPERMARKETS",
-      "StoreNo": "1325",
-      "Name": "Yass",
-      "AddressLine1": "Cnr Comur & Polding Street",
-      "AddressLine2": null,
-      "Suburb": "Yass",
-      "State": "NSW",
-      "Postcode": "2582",
-      "Latitude": "-34.84554599",
-      "Longitude": "148.914204",
-      "GeoLevel": "0",
-      "Distance": "213.16",
-      "Phone": "(02) 6118 7000",
-      "GMTZone": "11:0",
-      "IsOpen": true,
-      "PartnerUrl": null,
-      "TradingHours": [
-        {
-          "Day": "Today",
-          "OpenHour": "7:00 AM - 9:00 PM",
-          "TradingHourForDisplay": "Fri: 0700-2100"
-        },
-        {
-          "Day": "Tomorrow",
-          "OpenHour": "7:00 AM - 9:00 PM",
-          "TradingHourForDisplay": "Sat: 0700-2100"
-        },
-        {
-          "Day": "Sunday",
-          "OpenHour": "7:00 AM - 9:00 PM",
-          "TradingHourForDisplay": "Sun: 0700-2100"
-        },
-        {
-          "Day": "Monday",
-          "OpenHour": "7:00 AM - 9:00 PM",
-          "TradingHourForDisplay": "Mon: 0700-2100"
-        },
-        {
-          "Day": "Tuesday",
-          "OpenHour": "7:00 AM - 9:00 PM",
-          "TradingHourForDisplay": "Tue: 0700-2100"
-        },
-        {
-          "Day": "Wednesday",
-          "OpenHour": "7:00 AM - 9:00 PM",
-          "TradingHourForDisplay": "Wed: 0700-2100"
-        },
-        {
-          "Day": "Thursday",
-          "OpenHour": "7:00 AM - 9:00 PM",
-          "TradingHourForDisplay": "Thu: 0700-2100"
-        },
-        {
-          "Day": "Friday",
-          "OpenHour": "7:00 AM - 9:00 PM",
-          "TradingHourForDisplay": "Fri: 0700-2100"
-        }
-      ],
-      "Facilities": [
-        "Direct to boot - drive through",
-        "Liquor (Adjacent BWS)",
-        "Pick up",
-        "Quiet Hour",
-        "Reverse Vending Machines (RVM)",
-        "Seafood"
-      ],
-      "CategorisedFacilities": [],
-      "NearbyPartners": null
-    },
-    {
       "Division": "AMPOL",
       "StoreNo": "22592",
       "Name": "Ampol Foodary Yass Comur St",
@@ -43182,6 +43112,76 @@
           ]
         }
       ],
+      "NearbyPartners": null
+    },
+    {
+      "Division": "SUPERMARKETS",
+      "StoreNo": "1325",
+      "Name": "Yass",
+      "AddressLine1": "Cnr Comur & Polding Street",
+      "AddressLine2": null,
+      "Suburb": "Yass",
+      "State": "NSW",
+      "Postcode": "2582",
+      "Latitude": "-34.84554599",
+      "Longitude": "148.914204",
+      "GeoLevel": "0",
+      "Distance": "213.16",
+      "Phone": "(02) 6118 7000",
+      "GMTZone": "11:0",
+      "IsOpen": true,
+      "PartnerUrl": null,
+      "TradingHours": [
+        {
+          "Day": "Today",
+          "OpenHour": "7:00 AM - 9:00 PM",
+          "TradingHourForDisplay": "Fri: 0700-2100"
+        },
+        {
+          "Day": "Tomorrow",
+          "OpenHour": "7:00 AM - 9:00 PM",
+          "TradingHourForDisplay": "Sat: 0700-2100"
+        },
+        {
+          "Day": "Sunday",
+          "OpenHour": "7:00 AM - 9:00 PM",
+          "TradingHourForDisplay": "Sun: 0700-2100"
+        },
+        {
+          "Day": "Monday",
+          "OpenHour": "7:00 AM - 9:00 PM",
+          "TradingHourForDisplay": "Mon: 0700-2100"
+        },
+        {
+          "Day": "Tuesday",
+          "OpenHour": "7:00 AM - 9:00 PM",
+          "TradingHourForDisplay": "Tue: 0700-2100"
+        },
+        {
+          "Day": "Wednesday",
+          "OpenHour": "7:00 AM - 9:00 PM",
+          "TradingHourForDisplay": "Wed: 0700-2100"
+        },
+        {
+          "Day": "Thursday",
+          "OpenHour": "7:00 AM - 9:00 PM",
+          "TradingHourForDisplay": "Thu: 0700-2100"
+        },
+        {
+          "Day": "Friday",
+          "OpenHour": "7:00 AM - 9:00 PM",
+          "TradingHourForDisplay": "Fri: 0700-2100"
+        }
+      ],
+      "Facilities": [
+        "Direct to boot - drive through",
+        "Liquor (Adjacent BWS)",
+        "Pick up",
+        "Quiet Hour",
+        "Reverse Vending Machines (RVM)",
+        "Seafood"
+      ],
+      "CategorisedFacilities": [],
       "NearbyPartners": null
     },
     {
@@ -70306,72 +70306,6 @@
       "NearbyPartners": null
     },
     {
-      "Division": "SUPERMARKETS",
-      "StoreNo": "3316",
-      "Name": "Lakeside",
-      "AddressLine1": "Village Way",
-      "AddressLine2": null,
-      "Suburb": "Pakenham",
-      "State": "VIC",
-      "Postcode": "3810",
-      "Latitude": "-38.07247738",
-      "Longitude": "145.4370935",
-      "GeoLevel": "0",
-      "Distance": "674.48",
-      "Phone": "(03) 5943 5210",
-      "GMTZone": "11:0",
-      "IsOpen": true,
-      "PartnerUrl": null,
-      "TradingHours": [
-        {
-          "Day": "Today",
-          "OpenHour": "7:00 AM - 10:00 PM",
-          "TradingHourForDisplay": "Fri: 0700-2200"
-        },
-        {
-          "Day": "Tomorrow",
-          "OpenHour": "7:00 AM - 10:00 PM",
-          "TradingHourForDisplay": "Sat: 0700-2200"
-        },
-        {
-          "Day": "Sunday",
-          "OpenHour": "7:00 AM - 10:00 PM",
-          "TradingHourForDisplay": "Sun: 0700-2200"
-        },
-        {
-          "Day": "Monday",
-          "OpenHour": "7:00 AM - 10:00 PM",
-          "TradingHourForDisplay": "Mon: 0700-2200"
-        },
-        {
-          "Day": "Tuesday",
-          "OpenHour": "7:00 AM - 10:00 PM",
-          "TradingHourForDisplay": "Tue: 0700-2200"
-        },
-        {
-          "Day": "Wednesday",
-          "OpenHour": "7:00 AM - 10:00 PM",
-          "TradingHourForDisplay": "Wed: 0700-2200"
-        },
-        {
-          "Day": "Thursday",
-          "OpenHour": "7:00 AM - 10:00 PM",
-          "TradingHourForDisplay": "Thu: 0700-2200"
-        },
-        {
-          "Day": "Friday",
-          "OpenHour": "7:00 AM - 10:00 PM",
-          "TradingHourForDisplay": "Fri: 0700-2200"
-        }
-      ],
-      "Facilities": [
-        "Direct to boot - drive through",
-        "Pick up"
-      ],
-      "CategorisedFacilities": [],
-      "NearbyPartners": null
-    },
-    {
       "Division": "EG",
       "StoreNo": "93421",
       "Name": "Blackburn North",
@@ -70444,6 +70378,72 @@
           ]
         }
       ],
+      "NearbyPartners": null
+    },
+    {
+      "Division": "SUPERMARKETS",
+      "StoreNo": "3316",
+      "Name": "Lakeside",
+      "AddressLine1": "Village Way",
+      "AddressLine2": null,
+      "Suburb": "Pakenham",
+      "State": "VIC",
+      "Postcode": "3810",
+      "Latitude": "-38.07247738",
+      "Longitude": "145.4370935",
+      "GeoLevel": "0",
+      "Distance": "674.48",
+      "Phone": "(03) 5943 5210",
+      "GMTZone": "11:0",
+      "IsOpen": true,
+      "PartnerUrl": null,
+      "TradingHours": [
+        {
+          "Day": "Today",
+          "OpenHour": "7:00 AM - 10:00 PM",
+          "TradingHourForDisplay": "Fri: 0700-2200"
+        },
+        {
+          "Day": "Tomorrow",
+          "OpenHour": "7:00 AM - 10:00 PM",
+          "TradingHourForDisplay": "Sat: 0700-2200"
+        },
+        {
+          "Day": "Sunday",
+          "OpenHour": "7:00 AM - 10:00 PM",
+          "TradingHourForDisplay": "Sun: 0700-2200"
+        },
+        {
+          "Day": "Monday",
+          "OpenHour": "7:00 AM - 10:00 PM",
+          "TradingHourForDisplay": "Mon: 0700-2200"
+        },
+        {
+          "Day": "Tuesday",
+          "OpenHour": "7:00 AM - 10:00 PM",
+          "TradingHourForDisplay": "Tue: 0700-2200"
+        },
+        {
+          "Day": "Wednesday",
+          "OpenHour": "7:00 AM - 10:00 PM",
+          "TradingHourForDisplay": "Wed: 0700-2200"
+        },
+        {
+          "Day": "Thursday",
+          "OpenHour": "7:00 AM - 10:00 PM",
+          "TradingHourForDisplay": "Thu: 0700-2200"
+        },
+        {
+          "Day": "Friday",
+          "OpenHour": "7:00 AM - 10:00 PM",
+          "TradingHourForDisplay": "Fri: 0700-2200"
+        }
+      ],
+      "Facilities": [
+        "Direct to boot - drive through",
+        "Pick up"
+      ],
+      "CategorisedFacilities": [],
       "NearbyPartners": null
     },
     {
@@ -70591,81 +70591,6 @@
       "NearbyPartners": null
     },
     {
-      "Division": "EG",
-      "StoreNo": "99004",
-      "Name": "Epping - Cotters Road",
-      "AddressLine1": "35C Cotters Road and Oherns Road",
-      "AddressLine2": null,
-      "Suburb": "Epping - Cotters Road",
-      "State": "VIC",
-      "Postcode": "3076",
-      "Latitude": "-37.6345",
-      "Longitude": "145.0032",
-      "GeoLevel": "0",
-      "Distance": "674.8",
-      "Phone": "03 7068 9215",
-      "GMTZone": "11:0",
-      "IsOpen": true,
-      "PartnerUrl": null,
-      "TradingHours": [
-        {
-          "Day": "Today",
-          "OpenHour": "24 Hours",
-          "TradingHourForDisplay": "Fri: 24 Hours"
-        },
-        {
-          "Day": "Tomorrow",
-          "OpenHour": "24 Hours",
-          "TradingHourForDisplay": "Sat: 24 Hours"
-        },
-        {
-          "Day": "Sunday",
-          "OpenHour": "24 Hours",
-          "TradingHourForDisplay": "Sun: 24 Hours"
-        },
-        {
-          "Day": "Monday",
-          "OpenHour": "24 Hours",
-          "TradingHourForDisplay": "Mon: 24 Hours"
-        },
-        {
-          "Day": "Tuesday",
-          "OpenHour": "24 Hours",
-          "TradingHourForDisplay": "Tue: 24 Hours"
-        },
-        {
-          "Day": "Wednesday",
-          "OpenHour": "24 Hours",
-          "TradingHourForDisplay": "Wed: 24 Hours"
-        },
-        {
-          "Day": "Thursday",
-          "OpenHour": "24 Hours",
-          "TradingHourForDisplay": "Thu: 24 Hours"
-        },
-        {
-          "Day": "Friday",
-          "OpenHour": "24 Hours",
-          "TradingHourForDisplay": "Fri: 24 Hours"
-        }
-      ],
-      "Facilities": [
-        "Rewards-Everyday Rewards",
-        "Rewards-Redeem Fuel Discount"
-      ],
-      "CategorisedFacilities": [
-        {
-          "Category": "Rewards",
-          "CategoryLabel": "Rewards",
-          "Facilities": [
-            "Everyday Rewards",
-            "Redeem Fuel Discount"
-          ]
-        }
-      ],
-      "NearbyPartners": null
-    },
-    {
       "Division": "AMPOL",
       "StoreNo": "39600",
       "Name": "Eg Ampol Epping",
@@ -70765,6 +70690,81 @@
           "CategoryLabel": "Store services",
           "Facilities": [
             "Twenty Four Hour Outdoor Payment"
+          ]
+        }
+      ],
+      "NearbyPartners": null
+    },
+    {
+      "Division": "EG",
+      "StoreNo": "99004",
+      "Name": "Epping - Cotters Road",
+      "AddressLine1": "35C Cotters Road and Oherns Road",
+      "AddressLine2": null,
+      "Suburb": "Epping - Cotters Road",
+      "State": "VIC",
+      "Postcode": "3076",
+      "Latitude": "-37.6345",
+      "Longitude": "145.0032",
+      "GeoLevel": "0",
+      "Distance": "674.8",
+      "Phone": "03 7068 9215",
+      "GMTZone": "11:0",
+      "IsOpen": true,
+      "PartnerUrl": null,
+      "TradingHours": [
+        {
+          "Day": "Today",
+          "OpenHour": "24 Hours",
+          "TradingHourForDisplay": "Fri: 24 Hours"
+        },
+        {
+          "Day": "Tomorrow",
+          "OpenHour": "24 Hours",
+          "TradingHourForDisplay": "Sat: 24 Hours"
+        },
+        {
+          "Day": "Sunday",
+          "OpenHour": "24 Hours",
+          "TradingHourForDisplay": "Sun: 24 Hours"
+        },
+        {
+          "Day": "Monday",
+          "OpenHour": "24 Hours",
+          "TradingHourForDisplay": "Mon: 24 Hours"
+        },
+        {
+          "Day": "Tuesday",
+          "OpenHour": "24 Hours",
+          "TradingHourForDisplay": "Tue: 24 Hours"
+        },
+        {
+          "Day": "Wednesday",
+          "OpenHour": "24 Hours",
+          "TradingHourForDisplay": "Wed: 24 Hours"
+        },
+        {
+          "Day": "Thursday",
+          "OpenHour": "24 Hours",
+          "TradingHourForDisplay": "Thu: 24 Hours"
+        },
+        {
+          "Day": "Friday",
+          "OpenHour": "24 Hours",
+          "TradingHourForDisplay": "Fri: 24 Hours"
+        }
+      ],
+      "Facilities": [
+        "Rewards-Everyday Rewards",
+        "Rewards-Redeem Fuel Discount"
+      ],
+      "CategorisedFacilities": [
+        {
+          "Category": "Rewards",
+          "CategoryLabel": "Rewards",
+          "Facilities": [
+            "Everyday Rewards",
+            "Redeem Fuel Discount"
           ]
         }
       ],
@@ -74249,71 +74249,6 @@
     },
     {
       "Division": "SUPERMARKETS",
-      "StoreNo": "3146",
-      "Name": "Wheelers Hill",
-      "AddressLine1": "Wheelers Hill Shopping Centre, 190-200 Jells Road",
-      "AddressLine2": null,
-      "Suburb": "Wheelers Hill",
-      "State": "VIC",
-      "Postcode": "3150",
-      "Latitude": "-37.9096955",
-      "Longitude": "145.1897631",
-      "GeoLevel": "0",
-      "Distance": "679.81",
-      "Phone": "(03) 8551 8765",
-      "GMTZone": "11:0",
-      "IsOpen": true,
-      "PartnerUrl": null,
-      "TradingHours": [
-        {
-          "Day": "Today",
-          "OpenHour": "7:00 AM - 10:00 PM",
-          "TradingHourForDisplay": "Fri: 0700-2200"
-        },
-        {
-          "Day": "Tomorrow",
-          "OpenHour": "7:00 AM - 10:00 PM",
-          "TradingHourForDisplay": "Sat: 0700-2200"
-        },
-        {
-          "Day": "Sunday",
-          "OpenHour": "7:00 AM - 10:00 PM",
-          "TradingHourForDisplay": "Sun: 0700-2200"
-        },
-        {
-          "Day": "Monday",
-          "OpenHour": "7:00 AM - 10:00 PM",
-          "TradingHourForDisplay": "Mon: 0700-2200"
-        },
-        {
-          "Day": "Tuesday",
-          "OpenHour": "7:00 AM - 10:00 PM",
-          "TradingHourForDisplay": "Tue: 0700-2200"
-        },
-        {
-          "Day": "Wednesday",
-          "OpenHour": "7:00 AM - 10:00 PM",
-          "TradingHourForDisplay": "Wed: 0700-2200"
-        },
-        {
-          "Day": "Thursday",
-          "OpenHour": "7:00 AM - 10:00 PM",
-          "TradingHourForDisplay": "Thu: 0700-2200"
-        },
-        {
-          "Day": "Friday",
-          "OpenHour": "7:00 AM - 10:00 PM",
-          "TradingHourForDisplay": "Fri: 0700-2200"
-        }
-      ],
-      "Facilities": [
-        "Pick up"
-      ],
-      "CategorisedFacilities": [],
-      "NearbyPartners": null
-    },
-    {
-      "Division": "SUPERMARKETS",
       "StoreNo": "3209",
       "Name": "Burwood East",
       "AddressLine1": "42-50 Burwood Highway",
@@ -74375,6 +74310,71 @@
         "Liquor (Adjacent BWS)",
         "Quiet Hour",
         "Seafood"
+      ],
+      "CategorisedFacilities": [],
+      "NearbyPartners": null
+    },
+    {
+      "Division": "SUPERMARKETS",
+      "StoreNo": "3146",
+      "Name": "Wheelers Hill",
+      "AddressLine1": "Wheelers Hill Shopping Centre, 190-200 Jells Road",
+      "AddressLine2": null,
+      "Suburb": "Wheelers Hill",
+      "State": "VIC",
+      "Postcode": "3150",
+      "Latitude": "-37.9096955",
+      "Longitude": "145.1897631",
+      "GeoLevel": "0",
+      "Distance": "679.81",
+      "Phone": "(03) 8551 8765",
+      "GMTZone": "11:0",
+      "IsOpen": true,
+      "PartnerUrl": null,
+      "TradingHours": [
+        {
+          "Day": "Today",
+          "OpenHour": "7:00 AM - 10:00 PM",
+          "TradingHourForDisplay": "Fri: 0700-2200"
+        },
+        {
+          "Day": "Tomorrow",
+          "OpenHour": "7:00 AM - 10:00 PM",
+          "TradingHourForDisplay": "Sat: 0700-2200"
+        },
+        {
+          "Day": "Sunday",
+          "OpenHour": "7:00 AM - 10:00 PM",
+          "TradingHourForDisplay": "Sun: 0700-2200"
+        },
+        {
+          "Day": "Monday",
+          "OpenHour": "7:00 AM - 10:00 PM",
+          "TradingHourForDisplay": "Mon: 0700-2200"
+        },
+        {
+          "Day": "Tuesday",
+          "OpenHour": "7:00 AM - 10:00 PM",
+          "TradingHourForDisplay": "Tue: 0700-2200"
+        },
+        {
+          "Day": "Wednesday",
+          "OpenHour": "7:00 AM - 10:00 PM",
+          "TradingHourForDisplay": "Wed: 0700-2200"
+        },
+        {
+          "Day": "Thursday",
+          "OpenHour": "7:00 AM - 10:00 PM",
+          "TradingHourForDisplay": "Thu: 0700-2200"
+        },
+        {
+          "Day": "Friday",
+          "OpenHour": "7:00 AM - 10:00 PM",
+          "TradingHourForDisplay": "Fri: 0700-2200"
+        }
+      ],
+      "Facilities": [
+        "Pick up"
       ],
       "CategorisedFacilities": [],
       "NearbyPartners": null
@@ -77332,6 +77332,74 @@
     },
     {
       "Division": "SUPERMARKETS",
+      "StoreNo": "3349",
+      "Name": "Dandenong",
+      "AddressLine1": "Dandenong Plaza, Cnr Mccrae & Foster Street",
+      "AddressLine2": null,
+      "Suburb": "Dandenong",
+      "State": "VIC",
+      "Postcode": "3175",
+      "Latitude": "-37.987585",
+      "Longitude": "145.218572",
+      "GeoLevel": "0",
+      "Distance": "683.21",
+      "Phone": "(03) 8793 3364",
+      "GMTZone": "11:0",
+      "IsOpen": true,
+      "PartnerUrl": null,
+      "TradingHours": [
+        {
+          "Day": "Today",
+          "OpenHour": "8:00 AM - 9:00 PM",
+          "TradingHourForDisplay": "Fri: 0800-2100"
+        },
+        {
+          "Day": "Tomorrow",
+          "OpenHour": "8:00 AM - 9:00 PM",
+          "TradingHourForDisplay": "Sat: 0800-2100"
+        },
+        {
+          "Day": "Sunday",
+          "OpenHour": "8:00 AM - 9:00 PM",
+          "TradingHourForDisplay": "Sun: 0800-2100"
+        },
+        {
+          "Day": "Monday",
+          "OpenHour": "8:00 AM - 9:00 PM",
+          "TradingHourForDisplay": "Mon: 0800-2100"
+        },
+        {
+          "Day": "Tuesday",
+          "OpenHour": "8:00 AM - 9:00 PM",
+          "TradingHourForDisplay": "Tue: 0800-2100"
+        },
+        {
+          "Day": "Wednesday",
+          "OpenHour": "8:00 AM - 9:00 PM",
+          "TradingHourForDisplay": "Wed: 0800-2100"
+        },
+        {
+          "Day": "Thursday",
+          "OpenHour": "8:00 AM - 9:00 PM",
+          "TradingHourForDisplay": "Thu: 0800-2100"
+        },
+        {
+          "Day": "Friday",
+          "OpenHour": "8:00 AM - 9:00 PM",
+          "TradingHourForDisplay": "Fri: 0800-2100"
+        }
+      ],
+      "Facilities": [
+        "Direct to boot - drive through",
+        "Liquor (Adjacent BWS)",
+        "Pick up",
+        "Quiet Hour"
+      ],
+      "CategorisedFacilities": [],
+      "NearbyPartners": null
+    },
+    {
+      "Division": "SUPERMARKETS",
       "StoreNo": "3742",
       "Name": "Dandenong Junction",
       "AddressLine1": "1-3 Gladstone Road",
@@ -77399,74 +77467,6 @@
         "Quiet Hour",
         "Seafood",
         "Special Needs Trolleys"
-      ],
-      "CategorisedFacilities": [],
-      "NearbyPartners": null
-    },
-    {
-      "Division": "SUPERMARKETS",
-      "StoreNo": "3349",
-      "Name": "Dandenong",
-      "AddressLine1": "Dandenong Plaza, Cnr Mccrae & Foster Street",
-      "AddressLine2": null,
-      "Suburb": "Dandenong",
-      "State": "VIC",
-      "Postcode": "3175",
-      "Latitude": "-37.987585",
-      "Longitude": "145.218572",
-      "GeoLevel": "0",
-      "Distance": "683.21",
-      "Phone": "(03) 8793 3364",
-      "GMTZone": "11:0",
-      "IsOpen": true,
-      "PartnerUrl": null,
-      "TradingHours": [
-        {
-          "Day": "Today",
-          "OpenHour": "8:00 AM - 9:00 PM",
-          "TradingHourForDisplay": "Fri: 0800-2100"
-        },
-        {
-          "Day": "Tomorrow",
-          "OpenHour": "8:00 AM - 9:00 PM",
-          "TradingHourForDisplay": "Sat: 0800-2100"
-        },
-        {
-          "Day": "Sunday",
-          "OpenHour": "8:00 AM - 9:00 PM",
-          "TradingHourForDisplay": "Sun: 0800-2100"
-        },
-        {
-          "Day": "Monday",
-          "OpenHour": "8:00 AM - 9:00 PM",
-          "TradingHourForDisplay": "Mon: 0800-2100"
-        },
-        {
-          "Day": "Tuesday",
-          "OpenHour": "8:00 AM - 9:00 PM",
-          "TradingHourForDisplay": "Tue: 0800-2100"
-        },
-        {
-          "Day": "Wednesday",
-          "OpenHour": "8:00 AM - 9:00 PM",
-          "TradingHourForDisplay": "Wed: 0800-2100"
-        },
-        {
-          "Day": "Thursday",
-          "OpenHour": "8:00 AM - 9:00 PM",
-          "TradingHourForDisplay": "Thu: 0800-2100"
-        },
-        {
-          "Day": "Friday",
-          "OpenHour": "8:00 AM - 9:00 PM",
-          "TradingHourForDisplay": "Fri: 0800-2100"
-        }
-      ],
-      "Facilities": [
-        "Direct to boot - drive through",
-        "Liquor (Adjacent BWS)",
-        "Pick up",
-        "Quiet Hour"
       ],
       "CategorisedFacilities": [],
       "NearbyPartners": null
@@ -78335,81 +78335,6 @@
     },
     {
       "Division": "EG",
-      "StoreNo": "93551",
-      "Name": "Broadmeadows",
-      "AddressLine1": "Broadmeadows Shopping Centre Pearcedale Pde",
-      "AddressLine2": null,
-      "Suburb": "Broadmeadows",
-      "State": "VIC",
-      "Postcode": "3047",
-      "Latitude": "-37.6803",
-      "Longitude": "144.9175",
-      "GeoLevel": "0",
-      "Distance": "683.9",
-      "Phone": "03 9020 9408",
-      "GMTZone": "11:0",
-      "IsOpen": true,
-      "PartnerUrl": null,
-      "TradingHours": [
-        {
-          "Day": "Today",
-          "OpenHour": "6:00 AM - 10:00 PM",
-          "TradingHourForDisplay": "Fri: 0600-2200"
-        },
-        {
-          "Day": "Tomorrow",
-          "OpenHour": "7:00 AM - 9:00 PM",
-          "TradingHourForDisplay": "Sat: 0700-2100"
-        },
-        {
-          "Day": "Sunday",
-          "OpenHour": "8:00 AM - 9:00 PM",
-          "TradingHourForDisplay": "Sun: 0800-2100"
-        },
-        {
-          "Day": "Monday",
-          "OpenHour": "6:00 AM - 10:00 PM",
-          "TradingHourForDisplay": "Mon: 0600-2200"
-        },
-        {
-          "Day": "Tuesday",
-          "OpenHour": "6:00 AM - 10:00 PM",
-          "TradingHourForDisplay": "Tue: 0600-2200"
-        },
-        {
-          "Day": "Wednesday",
-          "OpenHour": "6:00 AM - 10:00 PM",
-          "TradingHourForDisplay": "Wed: 0600-2200"
-        },
-        {
-          "Day": "Thursday",
-          "OpenHour": "6:00 AM - 10:00 PM",
-          "TradingHourForDisplay": "Thu: 0600-2200"
-        },
-        {
-          "Day": "Friday",
-          "OpenHour": "6:00 AM - 10:00 PM",
-          "TradingHourForDisplay": "Fri: 0600-2200"
-        }
-      ],
-      "Facilities": [
-        "Rewards-Everyday Rewards",
-        "Rewards-Redeem Fuel Discount"
-      ],
-      "CategorisedFacilities": [
-        {
-          "Category": "Rewards",
-          "CategoryLabel": "Rewards",
-          "Facilities": [
-            "Everyday Rewards",
-            "Redeem Fuel Discount"
-          ]
-        }
-      ],
-      "NearbyPartners": null
-    },
-    {
-      "Division": "EG",
       "StoreNo": "93481",
       "Name": "Noble Park",
       "AddressLine1": "Cnr Chandler & Heatherton Rds",
@@ -78465,6 +78390,81 @@
           "Day": "Friday",
           "OpenHour": "24 Hours",
           "TradingHourForDisplay": "Fri: 24 Hours"
+        }
+      ],
+      "Facilities": [
+        "Rewards-Everyday Rewards",
+        "Rewards-Redeem Fuel Discount"
+      ],
+      "CategorisedFacilities": [
+        {
+          "Category": "Rewards",
+          "CategoryLabel": "Rewards",
+          "Facilities": [
+            "Everyday Rewards",
+            "Redeem Fuel Discount"
+          ]
+        }
+      ],
+      "NearbyPartners": null
+    },
+    {
+      "Division": "EG",
+      "StoreNo": "93551",
+      "Name": "Broadmeadows",
+      "AddressLine1": "Broadmeadows Shopping Centre Pearcedale Pde",
+      "AddressLine2": null,
+      "Suburb": "Broadmeadows",
+      "State": "VIC",
+      "Postcode": "3047",
+      "Latitude": "-37.6803",
+      "Longitude": "144.9175",
+      "GeoLevel": "0",
+      "Distance": "683.9",
+      "Phone": "03 9020 9408",
+      "GMTZone": "11:0",
+      "IsOpen": true,
+      "PartnerUrl": null,
+      "TradingHours": [
+        {
+          "Day": "Today",
+          "OpenHour": "6:00 AM - 10:00 PM",
+          "TradingHourForDisplay": "Fri: 0600-2200"
+        },
+        {
+          "Day": "Tomorrow",
+          "OpenHour": "7:00 AM - 9:00 PM",
+          "TradingHourForDisplay": "Sat: 0700-2100"
+        },
+        {
+          "Day": "Sunday",
+          "OpenHour": "8:00 AM - 9:00 PM",
+          "TradingHourForDisplay": "Sun: 0800-2100"
+        },
+        {
+          "Day": "Monday",
+          "OpenHour": "6:00 AM - 10:00 PM",
+          "TradingHourForDisplay": "Mon: 0600-2200"
+        },
+        {
+          "Day": "Tuesday",
+          "OpenHour": "6:00 AM - 10:00 PM",
+          "TradingHourForDisplay": "Tue: 0600-2200"
+        },
+        {
+          "Day": "Wednesday",
+          "OpenHour": "6:00 AM - 10:00 PM",
+          "TradingHourForDisplay": "Wed: 0600-2200"
+        },
+        {
+          "Day": "Thursday",
+          "OpenHour": "6:00 AM - 10:00 PM",
+          "TradingHourForDisplay": "Thu: 0600-2200"
+        },
+        {
+          "Day": "Friday",
+          "OpenHour": "6:00 AM - 10:00 PM",
+          "TradingHourForDisplay": "Fri: 0600-2200"
         }
       ],
       "Facilities": [
@@ -79244,6 +79244,81 @@
       "NearbyPartners": null
     },
     {
+      "Division": "EG",
+      "StoreNo": "93093",
+      "Name": "Camberwell South",
+      "AddressLine1": "965 Toorak Road",
+      "AddressLine2": null,
+      "Suburb": "Camberwell South",
+      "State": "VIC",
+      "Postcode": "3124",
+      "Latitude": "-37.8465",
+      "Longitude": "145.063",
+      "GeoLevel": "0",
+      "Distance": "684.37",
+      "Phone": "03 9020 9451",
+      "GMTZone": "11:0",
+      "IsOpen": true,
+      "PartnerUrl": null,
+      "TradingHours": [
+        {
+          "Day": "Today",
+          "OpenHour": "6:00 AM - 11:00 PM",
+          "TradingHourForDisplay": "Fri: 0600-2300"
+        },
+        {
+          "Day": "Tomorrow",
+          "OpenHour": "6:00 AM - 10:00 PM",
+          "TradingHourForDisplay": "Sat: 0600-2200"
+        },
+        {
+          "Day": "Sunday",
+          "OpenHour": "6:00 AM - 10:00 PM",
+          "TradingHourForDisplay": "Sun: 0600-2200"
+        },
+        {
+          "Day": "Monday",
+          "OpenHour": "6:00 AM - 11:00 PM",
+          "TradingHourForDisplay": "Mon: 0600-2300"
+        },
+        {
+          "Day": "Tuesday",
+          "OpenHour": "6:00 AM - 11:00 PM",
+          "TradingHourForDisplay": "Tue: 0600-2300"
+        },
+        {
+          "Day": "Wednesday",
+          "OpenHour": "6:00 AM - 11:00 PM",
+          "TradingHourForDisplay": "Wed: 0600-2300"
+        },
+        {
+          "Day": "Thursday",
+          "OpenHour": "6:00 AM - 11:00 PM",
+          "TradingHourForDisplay": "Thu: 0600-2300"
+        },
+        {
+          "Day": "Friday",
+          "OpenHour": "6:00 AM - 11:00 PM",
+          "TradingHourForDisplay": "Fri: 0600-2300"
+        }
+      ],
+      "Facilities": [
+        "Rewards-Everyday Rewards",
+        "Rewards-Redeem Fuel Discount"
+      ],
+      "CategorisedFacilities": [
+        {
+          "Category": "Rewards",
+          "CategoryLabel": "Rewards",
+          "Facilities": [
+            "Everyday Rewards",
+            "Redeem Fuel Discount"
+          ]
+        }
+      ],
+      "NearbyPartners": null
+    },
+    {
       "Division": "AMPOL",
       "StoreNo": "37092",
       "Name": "Ampol Foodary Northcote",
@@ -79345,81 +79420,6 @@
             "ATM",
             "BBQ Gas Available",
             "Disabled Toilet"
-          ]
-        }
-      ],
-      "NearbyPartners": null
-    },
-    {
-      "Division": "EG",
-      "StoreNo": "93093",
-      "Name": "Camberwell South",
-      "AddressLine1": "965 Toorak Road",
-      "AddressLine2": null,
-      "Suburb": "Camberwell South",
-      "State": "VIC",
-      "Postcode": "3124",
-      "Latitude": "-37.8465",
-      "Longitude": "145.063",
-      "GeoLevel": "0",
-      "Distance": "684.37",
-      "Phone": "03 9020 9451",
-      "GMTZone": "11:0",
-      "IsOpen": true,
-      "PartnerUrl": null,
-      "TradingHours": [
-        {
-          "Day": "Today",
-          "OpenHour": "6:00 AM - 11:00 PM",
-          "TradingHourForDisplay": "Fri: 0600-2300"
-        },
-        {
-          "Day": "Tomorrow",
-          "OpenHour": "6:00 AM - 10:00 PM",
-          "TradingHourForDisplay": "Sat: 0600-2200"
-        },
-        {
-          "Day": "Sunday",
-          "OpenHour": "6:00 AM - 10:00 PM",
-          "TradingHourForDisplay": "Sun: 0600-2200"
-        },
-        {
-          "Day": "Monday",
-          "OpenHour": "6:00 AM - 11:00 PM",
-          "TradingHourForDisplay": "Mon: 0600-2300"
-        },
-        {
-          "Day": "Tuesday",
-          "OpenHour": "6:00 AM - 11:00 PM",
-          "TradingHourForDisplay": "Tue: 0600-2300"
-        },
-        {
-          "Day": "Wednesday",
-          "OpenHour": "6:00 AM - 11:00 PM",
-          "TradingHourForDisplay": "Wed: 0600-2300"
-        },
-        {
-          "Day": "Thursday",
-          "OpenHour": "6:00 AM - 11:00 PM",
-          "TradingHourForDisplay": "Thu: 0600-2300"
-        },
-        {
-          "Day": "Friday",
-          "OpenHour": "6:00 AM - 11:00 PM",
-          "TradingHourForDisplay": "Fri: 0600-2300"
-        }
-      ],
-      "Facilities": [
-        "Rewards-Everyday Rewards",
-        "Rewards-Redeem Fuel Discount"
-      ],
-      "CategorisedFacilities": [
-        {
-          "Category": "Rewards",
-          "CategoryLabel": "Rewards",
-          "Facilities": [
-            "Everyday Rewards",
-            "Redeem Fuel Discount"
           ]
         }
       ],
@@ -79660,119 +79660,6 @@
     },
     {
       "Division": "AMPOL",
-      "StoreNo": "33292",
-      "Name": "Ampol Foodary Golden Square",
-      "AddressLine1": "446-450-High St Cnr Oak St",
-      "AddressLine2": null,
-      "Suburb": "Golden Square",
-      "State": "VIC",
-      "Postcode": "3555",
-      "Latitude": "-36.7800358",
-      "Longitude": "144.2497583",
-      "GeoLevel": "0",
-      "Distance": "685.31",
-      "Phone": null,
-      "GMTZone": "11:0",
-      "IsOpen": true,
-      "PartnerUrl": null,
-      "TradingHours": [
-        {
-          "Day": "Today",
-          "OpenHour": "24 Hours",
-          "TradingHourForDisplay": "Fri: 24 Hours"
-        },
-        {
-          "Day": "Tomorrow",
-          "OpenHour": "24 Hours",
-          "TradingHourForDisplay": "Sat: 24 Hours"
-        },
-        {
-          "Day": "Sunday",
-          "OpenHour": "24 Hours",
-          "TradingHourForDisplay": "Sun: 24 Hours"
-        },
-        {
-          "Day": "Monday",
-          "OpenHour": "24 Hours",
-          "TradingHourForDisplay": "Mon: 24 Hours"
-        },
-        {
-          "Day": "Tuesday",
-          "OpenHour": "24 Hours",
-          "TradingHourForDisplay": "Tue: 24 Hours"
-        },
-        {
-          "Day": "Wednesday",
-          "OpenHour": "24 Hours",
-          "TradingHourForDisplay": "Wed: 24 Hours"
-        },
-        {
-          "Day": "Thursday",
-          "OpenHour": "24 Hours",
-          "TradingHourForDisplay": "Thu: 24 Hours"
-        },
-        {
-          "Day": "Friday",
-          "OpenHour": "24 Hours",
-          "TradingHourForDisplay": "Fri: 24 Hours"
-        }
-      ],
-      "Facilities": [
-        "Fuel-AdBlue",
-        "Fuel-Premium95A",
-        "Fuel-Premium98A",
-        "Fuel-PremiumDieselA",
-        "Fuel-UnleadedPetrol",
-        "General-ATM",
-        "General-BBQGasAvailable",
-        "General-DisabledToilet",
-        "General-TwentyFourHourOutdoor",
-        "Pay-AmpolCardaccepted",
-        "Pay-FuelPay",
-        "Rewards-Everyday Rewards"
-      ],
-      "CategorisedFacilities": [
-        {
-          "Category": "Rewards",
-          "CategoryLabel": "Rewards",
-          "Facilities": [
-            "Everyday Rewards"
-          ]
-        },
-        {
-          "Category": "Fuel",
-          "CategoryLabel": "Fuel",
-          "Facilities": [
-            "AdBlue",
-            "Premium 95 A",
-            "Premium 98 A",
-            "Premium Diesel A",
-            "Unleaded Petrol"
-          ]
-        },
-        {
-          "Category": "Pay",
-          "CategoryLabel": "Payment options",
-          "Facilities": [
-            "AmpolCard accepted",
-            "FuelPay"
-          ]
-        },
-        {
-          "Category": "General",
-          "CategoryLabel": "Store services",
-          "Facilities": [
-            "ATM",
-            "BBQ Gas Available",
-            "Disabled Toilet",
-            "Twenty Four Hour Outdoor Payment"
-          ]
-        }
-      ],
-      "NearbyPartners": null
-    },
-    {
-      "Division": "AMPOL",
       "StoreNo": "37142",
       "Name": "Ampol Foodary Dandenong",
       "AddressLine1": "Cnr Greens & Frankston-Dandenong Rd",
@@ -79861,6 +79748,119 @@
           "Facilities": [
             "AdBlue",
             "Diesel",
+            "Premium 95 A",
+            "Premium 98 A",
+            "Premium Diesel A",
+            "Unleaded Petrol"
+          ]
+        },
+        {
+          "Category": "Pay",
+          "CategoryLabel": "Payment options",
+          "Facilities": [
+            "AmpolCard accepted",
+            "FuelPay"
+          ]
+        },
+        {
+          "Category": "General",
+          "CategoryLabel": "Store services",
+          "Facilities": [
+            "ATM",
+            "BBQ Gas Available",
+            "Disabled Toilet",
+            "Twenty Four Hour Outdoor Payment"
+          ]
+        }
+      ],
+      "NearbyPartners": null
+    },
+    {
+      "Division": "AMPOL",
+      "StoreNo": "33292",
+      "Name": "Ampol Foodary Golden Square",
+      "AddressLine1": "446-450-High St Cnr Oak St",
+      "AddressLine2": null,
+      "Suburb": "Golden Square",
+      "State": "VIC",
+      "Postcode": "3555",
+      "Latitude": "-36.7800358",
+      "Longitude": "144.2497583",
+      "GeoLevel": "0",
+      "Distance": "685.31",
+      "Phone": null,
+      "GMTZone": "11:0",
+      "IsOpen": true,
+      "PartnerUrl": null,
+      "TradingHours": [
+        {
+          "Day": "Today",
+          "OpenHour": "24 Hours",
+          "TradingHourForDisplay": "Fri: 24 Hours"
+        },
+        {
+          "Day": "Tomorrow",
+          "OpenHour": "24 Hours",
+          "TradingHourForDisplay": "Sat: 24 Hours"
+        },
+        {
+          "Day": "Sunday",
+          "OpenHour": "24 Hours",
+          "TradingHourForDisplay": "Sun: 24 Hours"
+        },
+        {
+          "Day": "Monday",
+          "OpenHour": "24 Hours",
+          "TradingHourForDisplay": "Mon: 24 Hours"
+        },
+        {
+          "Day": "Tuesday",
+          "OpenHour": "24 Hours",
+          "TradingHourForDisplay": "Tue: 24 Hours"
+        },
+        {
+          "Day": "Wednesday",
+          "OpenHour": "24 Hours",
+          "TradingHourForDisplay": "Wed: 24 Hours"
+        },
+        {
+          "Day": "Thursday",
+          "OpenHour": "24 Hours",
+          "TradingHourForDisplay": "Thu: 24 Hours"
+        },
+        {
+          "Day": "Friday",
+          "OpenHour": "24 Hours",
+          "TradingHourForDisplay": "Fri: 24 Hours"
+        }
+      ],
+      "Facilities": [
+        "Fuel-AdBlue",
+        "Fuel-Premium95A",
+        "Fuel-Premium98A",
+        "Fuel-PremiumDieselA",
+        "Fuel-UnleadedPetrol",
+        "General-ATM",
+        "General-BBQGasAvailable",
+        "General-DisabledToilet",
+        "General-TwentyFourHourOutdoor",
+        "Pay-AmpolCardaccepted",
+        "Pay-FuelPay",
+        "Rewards-Everyday Rewards"
+      ],
+      "CategorisedFacilities": [
+        {
+          "Category": "Rewards",
+          "CategoryLabel": "Rewards",
+          "Facilities": [
+            "Everyday Rewards"
+          ]
+        },
+        {
+          "Category": "Fuel",
+          "CategoryLabel": "Fuel",
+          "Facilities": [
+            "AdBlue",
             "Premium 95 A",
             "Premium 98 A",
             "Premium Diesel A",
@@ -83309,72 +83309,6 @@
     },
     {
       "Division": "SUPERMARKETS",
-      "StoreNo": "3403",
-      "Name": "Hawksburn Metro",
-      "AddressLine1": "569 Malvern Road",
-      "AddressLine2": null,
-      "Suburb": "Toorak",
-      "State": "VIC",
-      "Postcode": "3142",
-      "Latitude": "-37.84830096",
-      "Longitude": "145.005342",
-      "GeoLevel": "0",
-      "Distance": "688.55",
-      "Phone": "(03) 8347 6557",
-      "GMTZone": "11:0",
-      "IsOpen": true,
-      "PartnerUrl": null,
-      "TradingHours": [
-        {
-          "Day": "Today",
-          "OpenHour": "7:00 AM - 10:00 PM",
-          "TradingHourForDisplay": "Fri: 0700-2200"
-        },
-        {
-          "Day": "Tomorrow",
-          "OpenHour": "7:00 AM - 10:00 PM",
-          "TradingHourForDisplay": "Sat: 0700-2200"
-        },
-        {
-          "Day": "Sunday",
-          "OpenHour": "7:00 AM - 10:00 PM",
-          "TradingHourForDisplay": "Sun: 0700-2200"
-        },
-        {
-          "Day": "Monday",
-          "OpenHour": "7:00 AM - 10:00 PM",
-          "TradingHourForDisplay": "Mon: 0700-2200"
-        },
-        {
-          "Day": "Tuesday",
-          "OpenHour": "7:00 AM - 10:00 PM",
-          "TradingHourForDisplay": "Tue: 0700-2200"
-        },
-        {
-          "Day": "Wednesday",
-          "OpenHour": "7:00 AM - 10:00 PM",
-          "TradingHourForDisplay": "Wed: 0700-2200"
-        },
-        {
-          "Day": "Thursday",
-          "OpenHour": "7:00 AM - 10:00 PM",
-          "TradingHourForDisplay": "Thu: 0700-2200"
-        },
-        {
-          "Day": "Friday",
-          "OpenHour": "7:00 AM - 10:00 PM",
-          "TradingHourForDisplay": "Fri: 0700-2200"
-        }
-      ],
-      "Facilities": [
-        "Liquor (Adjacent BWS)",
-        "Metro"
-      ],
-      "CategorisedFacilities": [],
-      "NearbyPartners": null
-    },
-    {
-      "Division": "SUPERMARKETS",
       "StoreNo": "3438",
       "Name": "222 Exhibition St (Metro)",
       "AddressLine1": "222 Exhibition St",
@@ -83438,6 +83372,72 @@
         "Metro",
         "Pick up",
         "WiFi"
+      ],
+      "CategorisedFacilities": [],
+      "NearbyPartners": null
+    },
+    {
+      "Division": "SUPERMARKETS",
+      "StoreNo": "3403",
+      "Name": "Hawksburn Metro",
+      "AddressLine1": "569 Malvern Road",
+      "AddressLine2": null,
+      "Suburb": "Toorak",
+      "State": "VIC",
+      "Postcode": "3142",
+      "Latitude": "-37.84830096",
+      "Longitude": "145.005342",
+      "GeoLevel": "0",
+      "Distance": "688.55",
+      "Phone": "(03) 8347 6557",
+      "GMTZone": "11:0",
+      "IsOpen": true,
+      "PartnerUrl": null,
+      "TradingHours": [
+        {
+          "Day": "Today",
+          "OpenHour": "7:00 AM - 10:00 PM",
+          "TradingHourForDisplay": "Fri: 0700-2200"
+        },
+        {
+          "Day": "Tomorrow",
+          "OpenHour": "7:00 AM - 10:00 PM",
+          "TradingHourForDisplay": "Sat: 0700-2200"
+        },
+        {
+          "Day": "Sunday",
+          "OpenHour": "7:00 AM - 10:00 PM",
+          "TradingHourForDisplay": "Sun: 0700-2200"
+        },
+        {
+          "Day": "Monday",
+          "OpenHour": "7:00 AM - 10:00 PM",
+          "TradingHourForDisplay": "Mon: 0700-2200"
+        },
+        {
+          "Day": "Tuesday",
+          "OpenHour": "7:00 AM - 10:00 PM",
+          "TradingHourForDisplay": "Tue: 0700-2200"
+        },
+        {
+          "Day": "Wednesday",
+          "OpenHour": "7:00 AM - 10:00 PM",
+          "TradingHourForDisplay": "Wed: 0700-2200"
+        },
+        {
+          "Day": "Thursday",
+          "OpenHour": "7:00 AM - 10:00 PM",
+          "TradingHourForDisplay": "Thu: 0700-2200"
+        },
+        {
+          "Day": "Friday",
+          "OpenHour": "7:00 AM - 10:00 PM",
+          "TradingHourForDisplay": "Fri: 0700-2200"
+        }
+      ],
+      "Facilities": [
+        "Liquor (Adjacent BWS)",
+        "Metro"
       ],
       "CategorisedFacilities": [],
       "NearbyPartners": null
@@ -85134,6 +85134,72 @@
     },
     {
       "Division": "SUPERMARKETS",
+      "StoreNo": "8382",
+      "Name": "Park Street Metro",
+      "AddressLine1": "380 st kilda road, Melbourne vic 3000",
+      "AddressLine2": null,
+      "Suburb": "Melbourne",
+      "State": "VIC",
+      "Postcode": "3000",
+      "Latitude": "-37.832245",
+      "Longitude": "144.970901",
+      "GeoLevel": "0",
+      "Distance": "689.92",
+      "Phone": "(03) 9258 8473",
+      "GMTZone": "11:0",
+      "IsOpen": true,
+      "PartnerUrl": null,
+      "TradingHours": [
+        {
+          "Day": "Today",
+          "OpenHour": "7:00 AM - 11:00 PM",
+          "TradingHourForDisplay": "Fri: 0700-2300"
+        },
+        {
+          "Day": "Tomorrow",
+          "OpenHour": "7:00 AM - 11:00 PM",
+          "TradingHourForDisplay": "Sat: 0700-2300"
+        },
+        {
+          "Day": "Sunday",
+          "OpenHour": "7:00 AM - 11:00 PM",
+          "TradingHourForDisplay": "Sun: 0700-2300"
+        },
+        {
+          "Day": "Monday",
+          "OpenHour": "7:00 AM - 11:00 PM",
+          "TradingHourForDisplay": "Mon: 0700-2300"
+        },
+        {
+          "Day": "Tuesday",
+          "OpenHour": "7:00 AM - 11:00 PM",
+          "TradingHourForDisplay": "Tue: 0700-2300"
+        },
+        {
+          "Day": "Wednesday",
+          "OpenHour": "7:00 AM - 11:00 PM",
+          "TradingHourForDisplay": "Wed: 0700-2300"
+        },
+        {
+          "Day": "Thursday",
+          "OpenHour": "7:00 AM - 11:00 PM",
+          "TradingHourForDisplay": "Thu: 0700-2300"
+        },
+        {
+          "Day": "Friday",
+          "OpenHour": "7:00 AM - 11:00 PM",
+          "TradingHourForDisplay": "Fri: 0700-2300"
+        }
+      ],
+      "Facilities": [
+        "Metro",
+        "WiFi"
+      ],
+      "CategorisedFacilities": [],
+      "NearbyPartners": null
+    },
+    {
+      "Division": "SUPERMARKETS",
       "StoreNo": "3711",
       "Name": "Bourke Street (Metro)",
       "AddressLine1": "600 Bourke Street",
@@ -85195,72 +85261,6 @@
         "CARD payment only",
         "Convenience Store",
         "Instore Bakery",
-        "Metro",
-        "WiFi"
-      ],
-      "CategorisedFacilities": [],
-      "NearbyPartners": null
-    },
-    {
-      "Division": "SUPERMARKETS",
-      "StoreNo": "8382",
-      "Name": "Park Street Metro",
-      "AddressLine1": "380 st kilda road, Melbourne vic 3000",
-      "AddressLine2": null,
-      "Suburb": "Melbourne",
-      "State": "VIC",
-      "Postcode": "3000",
-      "Latitude": "-37.832245",
-      "Longitude": "144.970901",
-      "GeoLevel": "0",
-      "Distance": "689.92",
-      "Phone": "(03) 9258 8473",
-      "GMTZone": "11:0",
-      "IsOpen": true,
-      "PartnerUrl": null,
-      "TradingHours": [
-        {
-          "Day": "Today",
-          "OpenHour": "7:00 AM - 11:00 PM",
-          "TradingHourForDisplay": "Fri: 0700-2300"
-        },
-        {
-          "Day": "Tomorrow",
-          "OpenHour": "7:00 AM - 11:00 PM",
-          "TradingHourForDisplay": "Sat: 0700-2300"
-        },
-        {
-          "Day": "Sunday",
-          "OpenHour": "7:00 AM - 11:00 PM",
-          "TradingHourForDisplay": "Sun: 0700-2300"
-        },
-        {
-          "Day": "Monday",
-          "OpenHour": "7:00 AM - 11:00 PM",
-          "TradingHourForDisplay": "Mon: 0700-2300"
-        },
-        {
-          "Day": "Tuesday",
-          "OpenHour": "7:00 AM - 11:00 PM",
-          "TradingHourForDisplay": "Tue: 0700-2300"
-        },
-        {
-          "Day": "Wednesday",
-          "OpenHour": "7:00 AM - 11:00 PM",
-          "TradingHourForDisplay": "Wed: 0700-2300"
-        },
-        {
-          "Day": "Thursday",
-          "OpenHour": "7:00 AM - 11:00 PM",
-          "TradingHourForDisplay": "Thu: 0700-2300"
-        },
-        {
-          "Day": "Friday",
-          "OpenHour": "7:00 AM - 11:00 PM",
-          "TradingHourForDisplay": "Fri: 0700-2300"
-        }
-      ],
-      "Facilities": [
         "Metro",
         "WiFi"
       ],
@@ -85340,6 +85340,72 @@
     },
     {
       "Division": "SUPERMARKETS",
+      "StoreNo": "3813",
+      "Name": "Melbourne Square (Southbank)",
+      "AddressLine1": "Shop 1 10 Hoff Boulevard",
+      "AddressLine2": null,
+      "Suburb": "Southbank",
+      "State": "VIC",
+      "Postcode": "3006",
+      "Latitude": "-37.8257293",
+      "Longitude": "144.9635009",
+      "GeoLevel": "0",
+      "Distance": "690.02",
+      "Phone": "(03) 9258 8408",
+      "GMTZone": "11:0",
+      "IsOpen": true,
+      "PartnerUrl": null,
+      "TradingHours": [
+        {
+          "Day": "Today",
+          "OpenHour": "7:00 AM - 12:00 AM",
+          "TradingHourForDisplay": "Fri: 0700-0000"
+        },
+        {
+          "Day": "Tomorrow",
+          "OpenHour": "7:00 AM - 12:00 AM",
+          "TradingHourForDisplay": "Sat: 0700-0000"
+        },
+        {
+          "Day": "Sunday",
+          "OpenHour": "7:00 AM - 12:00 AM",
+          "TradingHourForDisplay": "Sun: 0700-0000"
+        },
+        {
+          "Day": "Monday",
+          "OpenHour": "7:00 AM - 12:00 AM",
+          "TradingHourForDisplay": "Mon: 0700-0000"
+        },
+        {
+          "Day": "Tuesday",
+          "OpenHour": "7:00 AM - 12:00 AM",
+          "TradingHourForDisplay": "Tue: 0700-0000"
+        },
+        {
+          "Day": "Wednesday",
+          "OpenHour": "7:00 AM - 12:00 AM",
+          "TradingHourForDisplay": "Wed: 0700-0000"
+        },
+        {
+          "Day": "Thursday",
+          "OpenHour": "7:00 AM - 12:00 AM",
+          "TradingHourForDisplay": "Thu: 0700-0000"
+        },
+        {
+          "Day": "Friday",
+          "OpenHour": "7:00 AM - 12:00 AM",
+          "TradingHourForDisplay": "Fri: 0700-0000"
+        }
+      ],
+      "Facilities": [
+        "Direct to boot - drive through",
+        "Pick up"
+      ],
+      "CategorisedFacilities": [],
+      "NearbyPartners": null
+    },
+    {
+      "Division": "SUPERMARKETS",
       "StoreNo": "3169",
       "Name": "Newmarket Plaza",
       "AddressLine1": "Newmarket Shopping Plaza, 338 Racecourse Road",
@@ -85405,72 +85471,6 @@
         "Seafood",
         "Sushi Bar",
         "WiFi"
-      ],
-      "CategorisedFacilities": [],
-      "NearbyPartners": null
-    },
-    {
-      "Division": "SUPERMARKETS",
-      "StoreNo": "3813",
-      "Name": "Melbourne Square (Southbank)",
-      "AddressLine1": "Shop 1 10 Hoff Boulevard",
-      "AddressLine2": null,
-      "Suburb": "Southbank",
-      "State": "VIC",
-      "Postcode": "3006",
-      "Latitude": "-37.8257293",
-      "Longitude": "144.9635009",
-      "GeoLevel": "0",
-      "Distance": "690.02",
-      "Phone": "(03) 9258 8408",
-      "GMTZone": "11:0",
-      "IsOpen": true,
-      "PartnerUrl": null,
-      "TradingHours": [
-        {
-          "Day": "Today",
-          "OpenHour": "7:00 AM - 12:00 AM",
-          "TradingHourForDisplay": "Fri: 0700-0000"
-        },
-        {
-          "Day": "Tomorrow",
-          "OpenHour": "7:00 AM - 12:00 AM",
-          "TradingHourForDisplay": "Sat: 0700-0000"
-        },
-        {
-          "Day": "Sunday",
-          "OpenHour": "7:00 AM - 12:00 AM",
-          "TradingHourForDisplay": "Sun: 0700-0000"
-        },
-        {
-          "Day": "Monday",
-          "OpenHour": "7:00 AM - 12:00 AM",
-          "TradingHourForDisplay": "Mon: 0700-0000"
-        },
-        {
-          "Day": "Tuesday",
-          "OpenHour": "7:00 AM - 12:00 AM",
-          "TradingHourForDisplay": "Tue: 0700-0000"
-        },
-        {
-          "Day": "Wednesday",
-          "OpenHour": "7:00 AM - 12:00 AM",
-          "TradingHourForDisplay": "Wed: 0700-0000"
-        },
-        {
-          "Day": "Thursday",
-          "OpenHour": "7:00 AM - 12:00 AM",
-          "TradingHourForDisplay": "Thu: 0700-0000"
-        },
-        {
-          "Day": "Friday",
-          "OpenHour": "7:00 AM - 12:00 AM",
-          "TradingHourForDisplay": "Fri: 0700-0000"
-        }
-      ],
-      "Facilities": [
-        "Direct to boot - drive through",
-        "Pick up"
       ],
       "CategorisedFacilities": [],
       "NearbyPartners": null
@@ -88254,6 +88254,115 @@
     },
     {
       "Division": "AMPOL",
+      "StoreNo": "37155",
+      "Name": "Ampol Foodary Avondale Heights",
+      "AddressLine1": "160-Military Rd",
+      "AddressLine2": null,
+      "Suburb": "Avondale Heights",
+      "State": "VIC",
+      "Postcode": "3034",
+      "Latitude": "-37.756105",
+      "Longitude": "144.85968",
+      "GeoLevel": "0",
+      "Distance": "692.9",
+      "Phone": null,
+      "GMTZone": "11:0",
+      "IsOpen": false,
+      "PartnerUrl": null,
+      "TradingHours": [
+        {
+          "Day": "Today",
+          "OpenHour": "05:00:00 - 23:00:00",
+          "TradingHourForDisplay": "Fri: 0500-2300"
+        },
+        {
+          "Day": "Tomorrow",
+          "OpenHour": "05:00:00 - 23:00:00",
+          "TradingHourForDisplay": "Sat: 0500-2300"
+        },
+        {
+          "Day": "Sunday",
+          "OpenHour": "05:00:00 - 23:00:00",
+          "TradingHourForDisplay": "Sun: 0500-2300"
+        },
+        {
+          "Day": "Monday",
+          "OpenHour": "05:00:00 - 23:00:00",
+          "TradingHourForDisplay": "Mon: 0500-2300"
+        },
+        {
+          "Day": "Tuesday",
+          "OpenHour": "05:00:00 - 23:00:00",
+          "TradingHourForDisplay": "Tue: 0500-2300"
+        },
+        {
+          "Day": "Wednesday",
+          "OpenHour": "05:00:00 - 23:00:00",
+          "TradingHourForDisplay": "Wed: 0500-2300"
+        },
+        {
+          "Day": "Thursday",
+          "OpenHour": "05:00:00 - 23:00:00",
+          "TradingHourForDisplay": "Thu: 0500-2300"
+        },
+        {
+          "Day": "Friday",
+          "OpenHour": "05:00:00 - 23:00:00",
+          "TradingHourForDisplay": "Fri: 0500-2300"
+        }
+      ],
+      "Facilities": [
+        "Fuel-Premium95A",
+        "Fuel-Premium98A",
+        "Fuel-PremiumDieselA",
+        "Fuel-UnleadedPetrol",
+        "General-ATM",
+        "General-BBQGasAvailable",
+        "Pay-AmpolCardaccepted",
+        "Pay-FuelPay",
+        "Rewards-Everyday Rewards",
+        "Rewards-Redeem Fuel Discount"
+      ],
+      "CategorisedFacilities": [
+        {
+          "Category": "Rewards",
+          "CategoryLabel": "Rewards",
+          "Facilities": [
+            "Everyday Rewards",
+            "Redeem Fuel Discount"
+          ]
+        },
+        {
+          "Category": "Fuel",
+          "CategoryLabel": "Fuel",
+          "Facilities": [
+            "Premium 95 A",
+            "Premium 98 A",
+            "Premium Diesel A",
+            "Unleaded Petrol"
+          ]
+        },
+        {
+          "Category": "Pay",
+          "CategoryLabel": "Payment options",
+          "Facilities": [
+            "AmpolCard accepted",
+            "FuelPay"
+          ]
+        },
+        {
+          "Category": "General",
+          "CategoryLabel": "Store services",
+          "Facilities": [
+            "ATM",
+            "BBQ Gas Available"
+          ]
+        }
+      ],
+      "NearbyPartners": null
+    },
+    {
+      "Division": "AMPOL",
       "StoreNo": "37091",
       "Name": "Ampol Foodary Cheltenham",
       "AddressLine1": "299-Charman Rd",
@@ -88360,115 +88469,6 @@
             "ATM",
             "BBQ Gas Available",
             "Disabled Toilet"
-          ]
-        }
-      ],
-      "NearbyPartners": null
-    },
-    {
-      "Division": "AMPOL",
-      "StoreNo": "37155",
-      "Name": "Ampol Foodary Avondale Heights",
-      "AddressLine1": "160-Military Rd",
-      "AddressLine2": null,
-      "Suburb": "Avondale Heights",
-      "State": "VIC",
-      "Postcode": "3034",
-      "Latitude": "-37.756105",
-      "Longitude": "144.85968",
-      "GeoLevel": "0",
-      "Distance": "692.9",
-      "Phone": null,
-      "GMTZone": "11:0",
-      "IsOpen": false,
-      "PartnerUrl": null,
-      "TradingHours": [
-        {
-          "Day": "Today",
-          "OpenHour": "05:00:00 - 23:00:00",
-          "TradingHourForDisplay": "Fri: 0500-2300"
-        },
-        {
-          "Day": "Tomorrow",
-          "OpenHour": "05:00:00 - 23:00:00",
-          "TradingHourForDisplay": "Sat: 0500-2300"
-        },
-        {
-          "Day": "Sunday",
-          "OpenHour": "05:00:00 - 23:00:00",
-          "TradingHourForDisplay": "Sun: 0500-2300"
-        },
-        {
-          "Day": "Monday",
-          "OpenHour": "05:00:00 - 23:00:00",
-          "TradingHourForDisplay": "Mon: 0500-2300"
-        },
-        {
-          "Day": "Tuesday",
-          "OpenHour": "05:00:00 - 23:00:00",
-          "TradingHourForDisplay": "Tue: 0500-2300"
-        },
-        {
-          "Day": "Wednesday",
-          "OpenHour": "05:00:00 - 23:00:00",
-          "TradingHourForDisplay": "Wed: 0500-2300"
-        },
-        {
-          "Day": "Thursday",
-          "OpenHour": "05:00:00 - 23:00:00",
-          "TradingHourForDisplay": "Thu: 0500-2300"
-        },
-        {
-          "Day": "Friday",
-          "OpenHour": "05:00:00 - 23:00:00",
-          "TradingHourForDisplay": "Fri: 0500-2300"
-        }
-      ],
-      "Facilities": [
-        "Fuel-Premium95A",
-        "Fuel-Premium98A",
-        "Fuel-PremiumDieselA",
-        "Fuel-UnleadedPetrol",
-        "General-ATM",
-        "General-BBQGasAvailable",
-        "Pay-AmpolCardaccepted",
-        "Pay-FuelPay",
-        "Rewards-Everyday Rewards",
-        "Rewards-Redeem Fuel Discount"
-      ],
-      "CategorisedFacilities": [
-        {
-          "Category": "Rewards",
-          "CategoryLabel": "Rewards",
-          "Facilities": [
-            "Everyday Rewards",
-            "Redeem Fuel Discount"
-          ]
-        },
-        {
-          "Category": "Fuel",
-          "CategoryLabel": "Fuel",
-          "Facilities": [
-            "Premium 95 A",
-            "Premium 98 A",
-            "Premium Diesel A",
-            "Unleaded Petrol"
-          ]
-        },
-        {
-          "Category": "Pay",
-          "CategoryLabel": "Payment options",
-          "Facilities": [
-            "AmpolCard accepted",
-            "FuelPay"
-          ]
-        },
-        {
-          "Category": "General",
-          "CategoryLabel": "Store services",
-          "Facilities": [
-            "ATM",
-            "BBQ Gas Available"
           ]
         }
       ],
@@ -93509,75 +93509,6 @@
       "NearbyPartners": null
     },
     {
-      "Division": "SUPERMARKETS",
-      "StoreNo": "3392",
-      "Name": "Watervale",
-      "AddressLine1": "Crn Taylors And Calder Park Drive",
-      "AddressLine2": null,
-      "Suburb": "Tayors Hill",
-      "State": "VIC",
-      "Postcode": "3037",
-      "Latitude": "-37.7233629",
-      "Longitude": "144.7515444",
-      "GeoLevel": "0",
-      "Distance": "698.63",
-      "Phone": "(03) 8361 4713",
-      "GMTZone": "11:0",
-      "IsOpen": true,
-      "PartnerUrl": null,
-      "TradingHours": [
-        {
-          "Day": "Today",
-          "OpenHour": "7:00 AM - 11:00 PM",
-          "TradingHourForDisplay": "Fri: 0700-2300"
-        },
-        {
-          "Day": "Tomorrow",
-          "OpenHour": "7:00 AM - 11:00 PM",
-          "TradingHourForDisplay": "Sat: 0700-2300"
-        },
-        {
-          "Day": "Sunday",
-          "OpenHour": "7:00 AM - 11:00 PM",
-          "TradingHourForDisplay": "Sun: 0700-2300"
-        },
-        {
-          "Day": "Monday",
-          "OpenHour": "7:00 AM - 11:00 PM",
-          "TradingHourForDisplay": "Mon: 0700-2300"
-        },
-        {
-          "Day": "Tuesday",
-          "OpenHour": "7:00 AM - 11:00 PM",
-          "TradingHourForDisplay": "Tue: 0700-2300"
-        },
-        {
-          "Day": "Wednesday",
-          "OpenHour": "7:00 AM - 11:00 PM",
-          "TradingHourForDisplay": "Wed: 0700-2300"
-        },
-        {
-          "Day": "Thursday",
-          "OpenHour": "7:00 AM - 11:00 PM",
-          "TradingHourForDisplay": "Thu: 0700-2300"
-        },
-        {
-          "Day": "Friday",
-          "OpenHour": "7:00 AM - 11:00 PM",
-          "TradingHourForDisplay": "Fri: 0700-2300"
-        }
-      ],
-      "Facilities": [
-        "Direct to boot - drive through",
-        "Liquor (Adjacent BWS)",
-        "Pick up",
-        "Quiet Hour",
-        "Seafood"
-      ],
-      "CategorisedFacilities": [],
-      "NearbyPartners": null
-    },
-    {
       "Division": "EG",
       "StoreNo": "93430",
       "Name": "Watervale",
@@ -93650,6 +93581,75 @@
           ]
         }
       ],
+      "NearbyPartners": null
+    },
+    {
+      "Division": "SUPERMARKETS",
+      "StoreNo": "3392",
+      "Name": "Watervale",
+      "AddressLine1": "Crn Taylors And Calder Park Drive",
+      "AddressLine2": null,
+      "Suburb": "Tayors Hill",
+      "State": "VIC",
+      "Postcode": "3037",
+      "Latitude": "-37.7233629",
+      "Longitude": "144.7515444",
+      "GeoLevel": "0",
+      "Distance": "698.63",
+      "Phone": "(03) 8361 4713",
+      "GMTZone": "11:0",
+      "IsOpen": true,
+      "PartnerUrl": null,
+      "TradingHours": [
+        {
+          "Day": "Today",
+          "OpenHour": "7:00 AM - 11:00 PM",
+          "TradingHourForDisplay": "Fri: 0700-2300"
+        },
+        {
+          "Day": "Tomorrow",
+          "OpenHour": "7:00 AM - 11:00 PM",
+          "TradingHourForDisplay": "Sat: 0700-2300"
+        },
+        {
+          "Day": "Sunday",
+          "OpenHour": "7:00 AM - 11:00 PM",
+          "TradingHourForDisplay": "Sun: 0700-2300"
+        },
+        {
+          "Day": "Monday",
+          "OpenHour": "7:00 AM - 11:00 PM",
+          "TradingHourForDisplay": "Mon: 0700-2300"
+        },
+        {
+          "Day": "Tuesday",
+          "OpenHour": "7:00 AM - 11:00 PM",
+          "TradingHourForDisplay": "Tue: 0700-2300"
+        },
+        {
+          "Day": "Wednesday",
+          "OpenHour": "7:00 AM - 11:00 PM",
+          "TradingHourForDisplay": "Wed: 0700-2300"
+        },
+        {
+          "Day": "Thursday",
+          "OpenHour": "7:00 AM - 11:00 PM",
+          "TradingHourForDisplay": "Thu: 0700-2300"
+        },
+        {
+          "Day": "Friday",
+          "OpenHour": "7:00 AM - 11:00 PM",
+          "TradingHourForDisplay": "Fri: 0700-2300"
+        }
+      ],
+      "Facilities": [
+        "Direct to boot - drive through",
+        "Liquor (Adjacent BWS)",
+        "Pick up",
+        "Quiet Hour",
+        "Seafood"
+      ],
+      "CategorisedFacilities": [],
       "NearbyPartners": null
     },
     {
@@ -96257,81 +96257,6 @@
       "NearbyPartners": null
     },
     {
-      "Division": "EG",
-      "StoreNo": "93587",
-      "Name": "Laverton North",
-      "AddressLine1": "4 Leakes Road (Cnr Fitzgerald Road)",
-      "AddressLine2": null,
-      "Suburb": "Laverton North",
-      "State": "VIC",
-      "Postcode": "3026",
-      "Latitude": "-37.8435",
-      "Longitude": "144.781",
-      "GeoLevel": "0",
-      "Distance": "704.16",
-      "Phone": "03 9020 9487",
-      "GMTZone": "11:0",
-      "IsOpen": true,
-      "PartnerUrl": null,
-      "TradingHours": [
-        {
-          "Day": "Today",
-          "OpenHour": "24 Hours",
-          "TradingHourForDisplay": "Fri: 24 Hours"
-        },
-        {
-          "Day": "Tomorrow",
-          "OpenHour": "24 Hours",
-          "TradingHourForDisplay": "Sat: 24 Hours"
-        },
-        {
-          "Day": "Sunday",
-          "OpenHour": "24 Hours",
-          "TradingHourForDisplay": "Sun: 24 Hours"
-        },
-        {
-          "Day": "Monday",
-          "OpenHour": "24 Hours",
-          "TradingHourForDisplay": "Mon: 24 Hours"
-        },
-        {
-          "Day": "Tuesday",
-          "OpenHour": "24 Hours",
-          "TradingHourForDisplay": "Tue: 24 Hours"
-        },
-        {
-          "Day": "Wednesday",
-          "OpenHour": "24 Hours",
-          "TradingHourForDisplay": "Wed: 24 Hours"
-        },
-        {
-          "Day": "Thursday",
-          "OpenHour": "24 Hours",
-          "TradingHourForDisplay": "Thu: 24 Hours"
-        },
-        {
-          "Day": "Friday",
-          "OpenHour": "24 Hours",
-          "TradingHourForDisplay": "Fri: 24 Hours"
-        }
-      ],
-      "Facilities": [
-        "Rewards-Everyday Rewards",
-        "Rewards-Redeem Fuel Discount"
-      ],
-      "CategorisedFacilities": [
-        {
-          "Category": "Rewards",
-          "CategoryLabel": "Rewards",
-          "Facilities": [
-            "Everyday Rewards",
-            "Redeem Fuel Discount"
-          ]
-        }
-      ],
-      "NearbyPartners": null
-    },
-    {
       "Division": "AMPOL",
       "StoreNo": "11263",
       "Name": "Ampol Foodary Nerang North M1",
@@ -96439,6 +96364,81 @@
             "ATM",
             "BBQ Gas Available",
             "Disabled Toilet"
+          ]
+        }
+      ],
+      "NearbyPartners": null
+    },
+    {
+      "Division": "EG",
+      "StoreNo": "93587",
+      "Name": "Laverton North",
+      "AddressLine1": "4 Leakes Road (Cnr Fitzgerald Road)",
+      "AddressLine2": null,
+      "Suburb": "Laverton North",
+      "State": "VIC",
+      "Postcode": "3026",
+      "Latitude": "-37.8435",
+      "Longitude": "144.781",
+      "GeoLevel": "0",
+      "Distance": "704.16",
+      "Phone": "03 9020 9487",
+      "GMTZone": "11:0",
+      "IsOpen": true,
+      "PartnerUrl": null,
+      "TradingHours": [
+        {
+          "Day": "Today",
+          "OpenHour": "24 Hours",
+          "TradingHourForDisplay": "Fri: 24 Hours"
+        },
+        {
+          "Day": "Tomorrow",
+          "OpenHour": "24 Hours",
+          "TradingHourForDisplay": "Sat: 24 Hours"
+        },
+        {
+          "Day": "Sunday",
+          "OpenHour": "24 Hours",
+          "TradingHourForDisplay": "Sun: 24 Hours"
+        },
+        {
+          "Day": "Monday",
+          "OpenHour": "24 Hours",
+          "TradingHourForDisplay": "Mon: 24 Hours"
+        },
+        {
+          "Day": "Tuesday",
+          "OpenHour": "24 Hours",
+          "TradingHourForDisplay": "Tue: 24 Hours"
+        },
+        {
+          "Day": "Wednesday",
+          "OpenHour": "24 Hours",
+          "TradingHourForDisplay": "Wed: 24 Hours"
+        },
+        {
+          "Day": "Thursday",
+          "OpenHour": "24 Hours",
+          "TradingHourForDisplay": "Thu: 24 Hours"
+        },
+        {
+          "Day": "Friday",
+          "OpenHour": "24 Hours",
+          "TradingHourForDisplay": "Fri: 24 Hours"
+        }
+      ],
+      "Facilities": [
+        "Rewards-Everyday Rewards",
+        "Rewards-Redeem Fuel Discount"
+      ],
+      "CategorisedFacilities": [
+        {
+          "Category": "Rewards",
+          "CategoryLabel": "Rewards",
+          "Facilities": [
+            "Everyday Rewards",
+            "Redeem Fuel Discount"
           ]
         }
       ],
@@ -98696,6 +98696,74 @@
       "NearbyPartners": null
     },
     {
+      "Division": "SUPERMARKETS",
+      "StoreNo": "3960",
+      "Name": "Featherbrook",
+      "AddressLine1": "Sneydes Road and Boardwalk Blvd",
+      "AddressLine2": null,
+      "Suburb": "Featherbrook",
+      "State": "VIC",
+      "Postcode": "3030",
+      "Latitude": "-37.898335",
+      "Longitude": "144.72686",
+      "GeoLevel": "0",
+      "Distance": "711.58",
+      "Phone": "(03) 8353 3102",
+      "GMTZone": "11:0",
+      "IsOpen": true,
+      "PartnerUrl": null,
+      "TradingHours": [
+        {
+          "Day": "Today",
+          "OpenHour": "7:00 AM - 11:00 PM",
+          "TradingHourForDisplay": "Fri: 0700-2300"
+        },
+        {
+          "Day": "Tomorrow",
+          "OpenHour": "7:00 AM - 11:00 PM",
+          "TradingHourForDisplay": "Sat: 0700-2300"
+        },
+        {
+          "Day": "Sunday",
+          "OpenHour": "7:00 AM - 11:00 PM",
+          "TradingHourForDisplay": "Sun: 0700-2300"
+        },
+        {
+          "Day": "Monday",
+          "OpenHour": "7:00 AM - 11:00 PM",
+          "TradingHourForDisplay": "Mon: 0700-2300"
+        },
+        {
+          "Day": "Tuesday",
+          "OpenHour": "7:00 AM - 11:00 PM",
+          "TradingHourForDisplay": "Tue: 0700-2300"
+        },
+        {
+          "Day": "Wednesday",
+          "OpenHour": "7:00 AM - 11:00 PM",
+          "TradingHourForDisplay": "Wed: 0700-2300"
+        },
+        {
+          "Day": "Thursday",
+          "OpenHour": "7:00 AM - 11:00 PM",
+          "TradingHourForDisplay": "Thu: 0700-2300"
+        },
+        {
+          "Day": "Friday",
+          "OpenHour": "7:00 AM - 11:00 PM",
+          "TradingHourForDisplay": "Fri: 0700-2300"
+        }
+      ],
+      "Facilities": [
+        "Direct to boot - drive through",
+        "Pick up",
+        "Quiet Hour",
+        "Seafood"
+      ],
+      "CategorisedFacilities": [],
+      "NearbyPartners": null
+    },
+    {
       "Division": "EG",
       "StoreNo": "99843",
       "Name": "Melton South",
@@ -98768,74 +98836,6 @@
           ]
         }
       ],
-      "NearbyPartners": null
-    },
-    {
-      "Division": "SUPERMARKETS",
-      "StoreNo": "3960",
-      "Name": "Featherbrook",
-      "AddressLine1": "Sneydes Road and Boardwalk Blvd",
-      "AddressLine2": null,
-      "Suburb": "Featherbrook",
-      "State": "VIC",
-      "Postcode": "3030",
-      "Latitude": "-37.898335",
-      "Longitude": "144.72686",
-      "GeoLevel": "0",
-      "Distance": "711.58",
-      "Phone": "(03) 8353 3102",
-      "GMTZone": "11:0",
-      "IsOpen": true,
-      "PartnerUrl": null,
-      "TradingHours": [
-        {
-          "Day": "Today",
-          "OpenHour": "7:00 AM - 11:00 PM",
-          "TradingHourForDisplay": "Fri: 0700-2300"
-        },
-        {
-          "Day": "Tomorrow",
-          "OpenHour": "7:00 AM - 11:00 PM",
-          "TradingHourForDisplay": "Sat: 0700-2300"
-        },
-        {
-          "Day": "Sunday",
-          "OpenHour": "7:00 AM - 11:00 PM",
-          "TradingHourForDisplay": "Sun: 0700-2300"
-        },
-        {
-          "Day": "Monday",
-          "OpenHour": "7:00 AM - 11:00 PM",
-          "TradingHourForDisplay": "Mon: 0700-2300"
-        },
-        {
-          "Day": "Tuesday",
-          "OpenHour": "7:00 AM - 11:00 PM",
-          "TradingHourForDisplay": "Tue: 0700-2300"
-        },
-        {
-          "Day": "Wednesday",
-          "OpenHour": "7:00 AM - 11:00 PM",
-          "TradingHourForDisplay": "Wed: 0700-2300"
-        },
-        {
-          "Day": "Thursday",
-          "OpenHour": "7:00 AM - 11:00 PM",
-          "TradingHourForDisplay": "Thu: 0700-2300"
-        },
-        {
-          "Day": "Friday",
-          "OpenHour": "7:00 AM - 11:00 PM",
-          "TradingHourForDisplay": "Fri: 0700-2300"
-        }
-      ],
-      "Facilities": [
-        "Direct to boot - drive through",
-        "Pick up",
-        "Quiet Hour",
-        "Seafood"
-      ],
-      "CategorisedFacilities": [],
       "NearbyPartners": null
     },
     {
@@ -107745,6 +107745,81 @@
       "NearbyPartners": null
     },
     {
+      "Division": "EG",
+      "StoreNo": "92200",
+      "Name": "Browns Plains West",
+      "AddressLine1": "92-102 Johnson Road",
+      "AddressLine2": null,
+      "Suburb": "Browns Plains West",
+      "State": "QLD",
+      "Postcode": "4118",
+      "Latitude": "-27.6592",
+      "Longitude": "153.0289",
+      "GeoLevel": "0",
+      "Distance": "731.14",
+      "Phone": "07 4082 7447",
+      "GMTZone": "10:0",
+      "IsOpen": true,
+      "PartnerUrl": null,
+      "TradingHours": [
+        {
+          "Day": "Today",
+          "OpenHour": "24 Hours",
+          "TradingHourForDisplay": "Fri: 24 Hours"
+        },
+        {
+          "Day": "Tomorrow",
+          "OpenHour": "24 Hours",
+          "TradingHourForDisplay": "Sat: 24 Hours"
+        },
+        {
+          "Day": "Sunday",
+          "OpenHour": "24 Hours",
+          "TradingHourForDisplay": "Sun: 24 Hours"
+        },
+        {
+          "Day": "Monday",
+          "OpenHour": "24 Hours",
+          "TradingHourForDisplay": "Mon: 24 Hours"
+        },
+        {
+          "Day": "Tuesday",
+          "OpenHour": "24 Hours",
+          "TradingHourForDisplay": "Tue: 24 Hours"
+        },
+        {
+          "Day": "Wednesday",
+          "OpenHour": "24 Hours",
+          "TradingHourForDisplay": "Wed: 24 Hours"
+        },
+        {
+          "Day": "Thursday",
+          "OpenHour": "24 Hours",
+          "TradingHourForDisplay": "Thu: 24 Hours"
+        },
+        {
+          "Day": "Friday",
+          "OpenHour": "24 Hours",
+          "TradingHourForDisplay": "Fri: 24 Hours"
+        }
+      ],
+      "Facilities": [
+        "Rewards-Everyday Rewards",
+        "Rewards-Redeem Fuel Discount"
+      ],
+      "CategorisedFacilities": [
+        {
+          "Category": "Rewards",
+          "CategoryLabel": "Rewards",
+          "Facilities": [
+            "Everyday Rewards",
+            "Redeem Fuel Discount"
+          ]
+        }
+      ],
+      "NearbyPartners": null
+    },
+    {
       "Division": "AMPOL",
       "StoreNo": "10266",
       "Name": "Ampol Foodary Eagleby",
@@ -107854,81 +107929,6 @@
             "BBQ Gas Available",
             "Disabled Toilet",
             "Twenty Four Hour Outdoor Payment"
-          ]
-        }
-      ],
-      "NearbyPartners": null
-    },
-    {
-      "Division": "EG",
-      "StoreNo": "92200",
-      "Name": "Browns Plains West",
-      "AddressLine1": "92-102 Johnson Road",
-      "AddressLine2": null,
-      "Suburb": "Browns Plains West",
-      "State": "QLD",
-      "Postcode": "4118",
-      "Latitude": "-27.6592",
-      "Longitude": "153.0289",
-      "GeoLevel": "0",
-      "Distance": "731.14",
-      "Phone": "07 4082 7447",
-      "GMTZone": "10:0",
-      "IsOpen": true,
-      "PartnerUrl": null,
-      "TradingHours": [
-        {
-          "Day": "Today",
-          "OpenHour": "24 Hours",
-          "TradingHourForDisplay": "Fri: 24 Hours"
-        },
-        {
-          "Day": "Tomorrow",
-          "OpenHour": "24 Hours",
-          "TradingHourForDisplay": "Sat: 24 Hours"
-        },
-        {
-          "Day": "Sunday",
-          "OpenHour": "24 Hours",
-          "TradingHourForDisplay": "Sun: 24 Hours"
-        },
-        {
-          "Day": "Monday",
-          "OpenHour": "24 Hours",
-          "TradingHourForDisplay": "Mon: 24 Hours"
-        },
-        {
-          "Day": "Tuesday",
-          "OpenHour": "24 Hours",
-          "TradingHourForDisplay": "Tue: 24 Hours"
-        },
-        {
-          "Day": "Wednesday",
-          "OpenHour": "24 Hours",
-          "TradingHourForDisplay": "Wed: 24 Hours"
-        },
-        {
-          "Day": "Thursday",
-          "OpenHour": "24 Hours",
-          "TradingHourForDisplay": "Thu: 24 Hours"
-        },
-        {
-          "Day": "Friday",
-          "OpenHour": "24 Hours",
-          "TradingHourForDisplay": "Fri: 24 Hours"
-        }
-      ],
-      "Facilities": [
-        "Rewards-Everyday Rewards",
-        "Rewards-Redeem Fuel Discount"
-      ],
-      "CategorisedFacilities": [
-        {
-          "Category": "Rewards",
-          "CategoryLabel": "Rewards",
-          "Facilities": [
-            "Everyday Rewards",
-            "Redeem Fuel Discount"
           ]
         }
       ],
@@ -116693,73 +116693,6 @@
       "NearbyPartners": null
     },
     {
-      "Division": "SUPERMARKETS",
-      "StoreNo": "2338",
-      "Name": "Tank St (Metro)",
-      "AddressLine1": "414 George St",
-      "AddressLine2": null,
-      "Suburb": "Brisbane",
-      "State": "QLD",
-      "Postcode": "4000",
-      "Latitude": "-27.468075",
-      "Longitude": "153.020381",
-      "GeoLevel": "0",
-      "Distance": "751.49",
-      "Phone": "(07) 3513 4444",
-      "GMTZone": "10:0",
-      "IsOpen": true,
-      "PartnerUrl": null,
-      "TradingHours": [
-        {
-          "Day": "Today",
-          "OpenHour": "7:00 AM - 8:00 PM",
-          "TradingHourForDisplay": "Fri: 0700-2000"
-        },
-        {
-          "Day": "Tomorrow",
-          "OpenHour": "Closed",
-          "TradingHourForDisplay": "Sat: Closed"
-        },
-        {
-          "Day": "Sunday",
-          "OpenHour": "Closed",
-          "TradingHourForDisplay": "Sun: Closed"
-        },
-        {
-          "Day": "Monday",
-          "OpenHour": "7:00 AM - 8:00 PM",
-          "TradingHourForDisplay": "Mon: 0700-2000"
-        },
-        {
-          "Day": "Tuesday",
-          "OpenHour": "7:00 AM - 8:00 PM",
-          "TradingHourForDisplay": "Tue: 0700-2000"
-        },
-        {
-          "Day": "Wednesday",
-          "OpenHour": "7:00 AM - 8:00 PM",
-          "TradingHourForDisplay": "Wed: 0700-2000"
-        },
-        {
-          "Day": "Thursday",
-          "OpenHour": "7:00 AM - 8:00 PM",
-          "TradingHourForDisplay": "Thu: 0700-2000"
-        },
-        {
-          "Day": "Friday",
-          "OpenHour": "7:00 AM - 8:00 PM",
-          "TradingHourForDisplay": "Fri: 0700-2000"
-        }
-      ],
-      "Facilities": [
-        "Convenience Store",
-        "Instore Bakery",
-        "Metro"
-      ],
-      "CategorisedFacilities": [],
-      "NearbyPartners": null
-    },
-    {
       "Division": "AMPOL",
       "StoreNo": "11947",
       "Name": "Ampol Foodary Cleveland Shore St",
@@ -116866,6 +116799,73 @@
           ]
         }
       ],
+      "NearbyPartners": null
+    },
+    {
+      "Division": "SUPERMARKETS",
+      "StoreNo": "2338",
+      "Name": "Tank St (Metro)",
+      "AddressLine1": "414 George St",
+      "AddressLine2": null,
+      "Suburb": "Brisbane",
+      "State": "QLD",
+      "Postcode": "4000",
+      "Latitude": "-27.468075",
+      "Longitude": "153.020381",
+      "GeoLevel": "0",
+      "Distance": "751.49",
+      "Phone": "(07) 3513 4444",
+      "GMTZone": "10:0",
+      "IsOpen": true,
+      "PartnerUrl": null,
+      "TradingHours": [
+        {
+          "Day": "Today",
+          "OpenHour": "7:00 AM - 8:00 PM",
+          "TradingHourForDisplay": "Fri: 0700-2000"
+        },
+        {
+          "Day": "Tomorrow",
+          "OpenHour": "Closed",
+          "TradingHourForDisplay": "Sat: Closed"
+        },
+        {
+          "Day": "Sunday",
+          "OpenHour": "Closed",
+          "TradingHourForDisplay": "Sun: Closed"
+        },
+        {
+          "Day": "Monday",
+          "OpenHour": "7:00 AM - 8:00 PM",
+          "TradingHourForDisplay": "Mon: 0700-2000"
+        },
+        {
+          "Day": "Tuesday",
+          "OpenHour": "7:00 AM - 8:00 PM",
+          "TradingHourForDisplay": "Tue: 0700-2000"
+        },
+        {
+          "Day": "Wednesday",
+          "OpenHour": "7:00 AM - 8:00 PM",
+          "TradingHourForDisplay": "Wed: 0700-2000"
+        },
+        {
+          "Day": "Thursday",
+          "OpenHour": "7:00 AM - 8:00 PM",
+          "TradingHourForDisplay": "Thu: 0700-2000"
+        },
+        {
+          "Day": "Friday",
+          "OpenHour": "7:00 AM - 8:00 PM",
+          "TradingHourForDisplay": "Fri: 0700-2000"
+        }
+      ],
+      "Facilities": [
+        "Convenience Store",
+        "Instore Bakery",
+        "Metro"
+      ],
+      "CategorisedFacilities": [],
       "NearbyPartners": null
     },
     {
